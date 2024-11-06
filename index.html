@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Conditioner Control Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 20px; }
+        .info { font-size: 1.5em; margin: 10px; }
+        .button { padding: 10px 20px; margin: 10px; cursor: pointer; }
+        #acStatus { font-size: 1.5em; margin: 20px; }
+        .chart-container {
+            width: 80%;
+            margin: 20px auto;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Air Conditioner Control Dashboard</h1>
+
+    <!-- 에어컨 상태 표시 및 수동 조작 버튼 -->
+    <div class="info">
+        <p id="acStatus">AC Status: OFF</p>
+        <button class="button" onclick="toggleAC('ON')">Turn ON</button>
+        <button class="button" onclick="toggleAC('OFF')">Turn OFF</button>
+    </div>
+
+    <!-- 날씨, 불쾌지수, 에어컨 동작 시간 -->
+    <div class="info">
+        <p id="temperature">Temperature: Loading...</p>
+        <p id="humidity">Humidity: Loading...</p>
+        <p id="discomfortIndex">Discomfort Index: Loading...</p>
+        <p id="acRuntime">AC Runtime (Last 24h): Loading...</p>
+    </div>
+
+    <!-- 그래프 추가 -->
+    <div class="chart-container">
+        <canvas id="tempHumidityChart"></canvas>
+    </div>
+
+    <script>
+        // 대시보드 데이터 및 에어컨 상태 업데이트
+        async function fetchDashboardData() {
+            // 서버에서 대시보드 데이터 가져오기
+            const response = await fetch('/dashboard');
+            const data = await response.json();
+
+            // 대시보드 데이터 표시
+            document.getElementById("acStatus").textContent = `AC Status: ${data.ac_status}`;
+            document.getElementById("temperature").textContent = `Temperature: ${data.temperature} °C`;
+            document.getElementById("humidity").textContent = `Humidity: ${data.humidity} %`;
+            document.getElementById("discomfortIndex").textContent = `Discomfort Index: ${data.discomfort_index}`;
+            document.getElementById("acRuntime").textContent = `AC Runtime (Last 24h): ${data.ac_runtime_last_24h} hours`;
+        }
+
+        // 에어컨 수동 조작
+        async function toggleAC(status) {
+            try {
+                console.log('Sending AC toggle request:', status);
+                const response = await fetch('/set_ac_status', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ status: status })
+                });
+                const data = await response.json();
+                console.log('Server response:', data);
+
+                // 수동 설정된 에어컨 상태 표시
+                document.getElementById("acStatus").textContent = `AC Status: ${data.status}`;
+                
+                // 상태 변경 후 즉시 대시보드 데이터 새로고침
+                fetchDashboardData();
+            } catch (error) {
+                console.error('Error toggling AC:', error);
+            }
+        }
+
+        // 더 짧은 간격으로 업데이트 (예: 10초마다)
+        setInterval(fetchDashboardData, 10000);  // 10초마다 대시보드 데이터 업데이트
+        fetchDashboardData();                    // 페이지 로드 시 초기 데이터 로드
+
+        // 그래프 업데이트 함수 추가
+        async function updateChart() {
+            try {
+                const response = await fetch('/get_indoor_data');
+                const data = await response.json();
+                
+                const timestamps = data.map(item => {
+                    // UTC+7 (비엔티안 시간)으로 조정
+                    const date = new Date(item.timestamp);
+                    return date.toLocaleTimeString('ko-KR', {
+                        hour: '2-digit',
+                        minute: '2-digit',
+                        hour12: false,
+                        timeZone: 'Asia/Vientiane'
+                    });
+                });
+                
+                const temperatures = data.map(item => item.temperature);
+                const humidities = data.map(item => item.humidity);
+
+                const ctx = document.getElementById('tempHumidityChart').getContext('2d');
+                
+                if (window.myChart) {
+                    window.myChart.destroy();
+                }
+
+                window.myChart = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: timestamps,
+                        datasets: [{
+                            label: '온도 (°C)',
+                            data: temperatures,
+                            borderColor: 'rgb(255, 99, 132)',
+                            yAxisID: 'y1',
+                            tension: 0.1
+                        }, {
+                            label: '습도 (%)',
+                            data: humidities,
+                            borderColor: 'rgb(54, 162, 235)',
+                            yAxisID: 'y2',
+                            tension: 0.1
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        interaction: {
+                            mode: 'index',
+                            intersect: false,
+                        },
+                        scales: {
+                            x: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: '시간'
+                                },
+                                ticks: {
+                                    maxRotation: 45,
+                                    minRotation: 45
+                                }
+                            },
+                            y1: {
+                                type: 'linear',
+                                display: true,
+                                position: 'left',
+                                title: {
+                                    display: true,
+                                    text: '온도 (°C)'
+                                }
+                            },
+                            y2: {
+                                type: 'linear',
+                                display: true,
+                                position: 'right',
+                                title: {
+                                    display: true,
+                                    text: '습도 (%)'
+                                },
+                                grid: {
+                                    drawOnChartArea: false,
+                                }
+                            }
+                        }
+                    }
+                });
+            } catch (error) {
+                console.error('Error updating chart:', error);
+            }
+        }
+
+        // 초기 차트 로딩 및 주기적 업데이트
+        updateChart();
+        setInterval(updateChart, 300000); // 5분마다 업데이트
+    </script>
+</body>
+</html>
+
