@@ -223,20 +223,6 @@ def periodic_updates():
 def index():
     return render_template('index.html')
 
-#@app.route('/get_indoor_data')
-#def get_indoor_data():
-#    with conn.cursor(cursor_factory=RealDictCursor) as cur:
-#       cur.execute("""
-#            SELECT 
-#                temperature,
-#               humidity,
-#                to_char(timestamp AT TIME ZONE 'Asia/Vientiane', 'YYYY-MM-DD HH24:MI:SS') as timestamp
-#            FROM weather_data
-#            WHERE timestamp >= NOW() - INTERVAL '6 hours'
-#            ORDER BY timestamp ASC
-#        """)
-#        data = cur.fetchall()
-#        return jsonify(data)
 
 # 실내 온습도 데이터를 위한 새로운 테이블 생성
 def create_tables():
