@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6a3b364-a590-4a6e-abc0-f3bb6890415c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo08calculatorminus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo12-1PlusMinZero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo12-3LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helloworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q12-3leapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q13-1LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q14-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q1Sonol36li2-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Q3Sonol36li2-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/from typing import Literal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liQ1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pratich.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print(&quot;Hello world&quot;).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print(1+2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolreport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/계산기/serial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iATER_LAB/Algo10NbyNAnotherWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/iATER_LAB/Algo10NbyNAnotherWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iATER_LAB/Algo11NbyNReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/iATER_LAB/Algo11NbyNReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iATER_LAB/Alog05UperToLowLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/iATER_LAB/Alog05UperToLowLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iATER_LAB/Diamond1.java" beforeDir="false" afterPath="$PROJECT_DIR$/iATER_LAB/Diamond1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iATER_LAB/Exam13.java" beforeDir="false" afterPath="$PROJECT_DIR$/iATER_LAB/Exam13.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GXQOFGB7nEZ0RnahhiTTWSMBWn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/daeseekpaek/Library/Mobile Documents/com~apple~CloudDocs/Python&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Algo12-1PlusMinZero">
+    <configuration name="Algo08calculatorminus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo08calculatorminus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Algo12-1PlusMinZero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo12-1PlusMinZero.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/계산기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/계산기/serial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Algo12-1PlusMinZero" />
+        <item itemvalue="Python.Algo08calculatorminus" />
+        <item itemvalue="Python.serial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6a3b364-a590-4a6e-abc0-f3bb6890415c" name="Changes" comment="" />
+      <created>1666532415162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666532415162</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

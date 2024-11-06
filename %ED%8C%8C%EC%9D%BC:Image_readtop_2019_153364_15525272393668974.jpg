@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ko" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>리브레 위키</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ko","wgMonthNames":["","1월","2월","3월","4월","5월","6월","7월","8월","9월","10월","11월","12월"],"wgRequestId":"85079a5b9704af7ffcc2551d","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"리브레_위키:현관","wgTitle":"현관","wgCurRevisionId":1344122,"wgRevisionId":1344122,"wgArticleId":5,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"ko","wgPageContentModel":"wikitext","wgRelevantPageName":"리브레_위키:현관","wgRelevantArticleId":5,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgPopupsReferencePreviews":!0,
+"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"ko","pageLanguageDir":"ltr","pageVariantFallbacks":"ko"},"wgSmjUseCdn":!0,"wgSmjUseChem":!0,"wgSmjDisplayMath":[],"wgSmjExtraInlineMath":[],"wgSmjScale":1,"wgSmjEnableMenu":!0,"wgSmjDisplayAlign":"left","wgEditSubmitButtonLabelPublish":!1};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","skins.liberty.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","ext.gadget.TemporarySave","ext.gadget.Edittools","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","skins.liberty.bootstrap","skins.liberty.layoutjs","skins.liberty.ads","skins.liberty.liverc","skins.liberty.loginjs"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ko"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=ko&amp;modules=ext.visualEditor.desktopArticleTarget.noscript%7Cskins.liberty.styles&amp;only=styles&amp;skin=liberty"/>
+<script async="" src="/load.php?lang=ko&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=liberty"></script>
+<style>.Liberty .nav-wrapper,
+		.Liberty .nav-wrapper .navbar .form-inline .btn:hover,
+		.Liberty .nav-wrapper .navbar .form-inline .btn:focus,
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item .nav-link.active::before,
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item .nav-link:hover::before,
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item .nav-link:focus::before,
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item .nav-link:active::before,
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-footer .label,
+		.Liberty .content-wrapper .liberty-content .liberty-content-header .content-tools .tools-btn:hover,
+		.Liberty .content-wrapper .liberty-content .liberty-content-header .content-tools .tools-btn:focus,
+		.Liberty .content-wrapper .liberty-content .liberty-content-header .content-tools .tools-btn:active {
+			background-color: #4188F1;
+		}
+
+		.Liberty .nav-wrapper .navbar .form-inline .btn:hover,
+		.Liberty .nav-wrapper .navbar .form-inline .btn:focus {
+			border-color: #2774DC;
+		}
+
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item .nav-link.active::before,
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item .nav-link:hover::before,
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item .nav-link:focus::before,
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item .nav-link:active::before {
+			border-bottom: 2px solid #4188F1;
+		}
+
+		.Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-footer .label:hover,
+		.Liberty .nav-wrapper .navbar .navbar-nav .nav-item .nav-link:hover,
+		.Liberty .nav-wrapper .navbar .navbar-nav .nav-item .nav-link:focus,
+		.dropdown-menu .dropdown-item:hover {
+			background-color: #2774DC;
+		}
+
+
+		.Liberty .content-wrapper #liberty-bottombtn,
+		.Liberty .content-wrapper #liberty-bottombtn:hover {
+			background-color: #4188F1;
+		}</style><style>@media (prefers-color-scheme: dark) { body, .Liberty, .dropdown-menu, .dropdown-item, .Liberty .nav-wrapper .navbar .form-inline .btn, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item .nav-link.active, .Liberty .content-wrapper .liberty-content .liberty-content-main table.wikitable tr > th, .Liberty .content-wrapper .liberty-content .liberty-content-main table.wikitable tr > td, table.mw_metadata th, .Liberty .content-wrapper .liberty-content .liberty-content-main table.infobox th, #preferences fieldset:not(.prefsection), #preferences div.mw-prefs-buttons, .navbox, .navbox-subgroup, .navbox > tbody > tr:nth-child(even) > .navbox-list {
+			background-color: #000;
+			color: #DDD;
+		}
+
+		.liberty-content-header, .liberty-footer, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-footer, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item, .Liberty .content-wrapper .liberty-content .liberty-content-header, .Liberty .content-wrapper .liberty-footer, .editOptions, html .wikiEditor-ui-toolbar, #pagehistory li.selected, .mw-datatable td, .Liberty .content-wrapper .liberty-content .liberty-content-main table.wikitable tr > td, table.mw_metadata td, .Liberty .content-wrapper .liberty-content .liberty-content-main table.wikitable, .Liberty .content-wrapper .liberty-content .liberty-content-main table.infobox, #preferences, .navbox-list, .dropdown-divider {
+			background-color: #1F2023;
+			color: #DDD;
+		}
+
+		.Liberty .content-wrapper .liberty-content .liberty-content-main, .mw-datatable th, .mw-datatable tr:hover td, textarea, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-content, div.mw-warning-with-logexcerpt, div.mw-lag-warn-high, div.mw-cascadeprotectedwarning, div#mw-protect-cascadeon {
+			background-color: #000;
+		}
+
+		.Liberty .content-wrapper .liberty-content .liberty-content-header .title>h1, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-content .live-recent-list .recent-item, caption { color: #DDD; }
+
+		.btn-secondary { background: transparent; color: #DDD; }
+
+		#pagehistory li { border: 0; }
+
+		.Liberty .content-wrapper .liberty-footer, .Liberty .content-wrapper .liberty-content .liberty-content-header, .Liberty .content-wrapper .liberty-content .liberty-content-main, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-footer, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-content, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-header .nav .nav-item + .nav-item, .Liberty .content-wrapper .liberty-content .liberty-content-header .content-tools .tools-btn:hover, .Liberty .content-wrapper .liberty-content .liberty-content-header .content-tools .tools-btn:focus, .Liberty .content-wrapper .liberty-content .liberty-content-header .content-tools .tools-btn, .dropdown-menu, .dropdown-divider, .Liberty .content-wrapper .liberty-content .liberty-content-main fieldset, hr, .Liberty .content-wrapper .liberty-sidebar .live-recent-wrapper .live-recent .live-recent-content .live-recent-list li, .mw-changeslist-legend, .Liberty .content-wrapper .liberty-content .liberty-content-header .content-tools { border-color: #555; }
+
+		.flow-post, .Liberty .content-wrapper .liberty-content .liberty-content-main .toc .toctext { color: #DDD; }
+		.flow-topic-titlebar { color: #000; }
+		.flow-ui-navigationWidget { color: #FFF; }
+		.Liberty .content-wrapper .liberty-content .liberty-content-main .toccolours, .Liberty .content-wrapper .liberty-content .liberty-content-main .toc ul, .Liberty .content-wrapper .liberty-content .liberty-content-main .toc li { background-color: #000; }
+		.Liberty .content-wrapper .liberty-content .liberty-content-main .toc .toctitle { background-color: #1F2023; } }</style>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=ko&amp;modules=site.styles&amp;only=styles&amp;skin=liberty"/>
+<meta name="generator" content="MediaWiki 1.35.6"/>
+<meta property="og:image" content="https://image.librewiki.net/logo_libra.png"/>
+<meta name="description" content="광고 차단 기능의 해제는 안정적인 운영에 도움이&amp;#160;됩니다."/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta name="description" content=".mw-parser-output p,.mw-parser-output a,.mw-parser-output li{word-break:keep-all;overflow-wrap:break-word}.mw-parser-output .mainbanner{padding:3rem 2.5rem}.mw-parser-output .mainbanner .visualcontainer{float:right;margin:-1.1rem -0.5rem 0 0;max-width:280px}.mw-parser-output .devbanner{padding:2rem 3.1rem 2rem}.mw-parser-output .devbanner .visualcontainer{float:left;margin-top:-1.5rem;margin-right:2rem}.mw-parser-output .message{padding:0 2.5rem}.mw-parser-output a[href=&quot;/wiki/%EB%AF%B8%EB%94%94%EC%96%B4%EC%9C%84%ED%82%A4:Sitenotice&quot;]{text-decoration:none!important}.mw-parser-output .menugrid{margin:2.8rem 1rem 3.75rem;font-size:1.2rem;text-align:center}.mw-parser-output .showcasebanner{padding:1rem 2.5rem;margin:1rem auto 0}.mw-parser-output .showcasebanner .title{margin:-0.25rem auto 0.5rem}.mw-parser-output .showcasebanner .seriesimg{margin-bottom:3rem}.mw-parser-output .lookaroundcontainer{column-count:3;column-gap:20px;max-height:22rem}.mw-parser-output .lookaround,.mw-parser-output .lookaround ul{margin:0!important}.mw-parser-output .lookaround li{list-style:none;line-height:80px}.mw-parser-output .lookaround li hr{margin:0!important}.mw-parser-output .lookaround li .item{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.mw-parser-output .lookaround li .imgbox{width:60px;height:60px;display:inline-block;text-align:center;margin:0 0.6rem 0 0.5rem;vertical-align:middle;position:relative}.mw-parser-output .lookaround li .imgbox img{width:auto;height:auto;max-width:100%;max-height:100%;border-radius:0.35rem;position:absolute;height:auto;margin:auto;top:0;bottom:0;left:0;right:0}@media(min-width:900px){.mw-parser-output .lookaround ul&gt;li:last-child&gt;hr,.mw-parser-output .lookaround ul&gt;li:nth-child(4)&gt;hr,.mw-parser-output .lookaround ul&gt;li:nth-child(8)&gt;hr{display:none}}@media(min-width:600px)and (max-width:900px){.mw-parser-output .lookaroundcontainer{column-count:2;max-height:33rem}.mw-parser-output .lookaround ul&gt;li:last-child&gt;hr,.mw-parser-output .lookaround ul&gt;li:nth-child(6)&gt;hr,.mw-parser-output .lookaround ul&gt;li:nth-child(12)&gt;hr{display:none}}@media(max-width:768px){.mw-parser-output .mainbanner,.mw-parser-output .devbanner{padding-bottom:1.5rem}.mw-parser-output .mainbanner .visualcontainer,.mw-parser-output .devbanner .visualcontainer{float:none;display:block;text-align:center}.mw-parser-output .mainbanner .visualcontainer{margin:-1.5rem auto 0}.mw-parser-output .devbanner .visualcontainer{margin:-1.5rem auto 0.5rem}}@media(min-width:600px)and (max-width:768px){.mw-parser-output .mainbanner .visualcontainer,.mw-parser-output .devbanner .visualcontainer{max-width:70%}.mw-parser-output .showcasebanner{padding:1rem}}@media(max-width:600px){.mw-parser-output .mainbanner .visualcontainer,.mw-parser-output .devbanner .visualcontainer{max-width:100%}.mw-parser-output .showcasebanner{padding:0.5rem 1rem}.mw-parser-output .showcasebanner .title{margin:0 auto 0rem}.mw-parser-output .showcasebanner .floatleft{float:none;display:block;text-align:center}.mw-parser-output .lookaroundcontainer{column-count:1;max-height:none}.mw-parser-output .lookaround ul&gt;li:last-child&gt;hr{display:none}}@media(max-width:544px){.mw-parser-output .menugrid{margin:1rem 0 2rem;font-size:1.09rem}.mw-parser-output .showcasebanner img{margin:0}}@media(max-width:480px){.mw-parser-output .mainbanner,.mw-parser-output .devbanner{padding:1rem 1rem}.mw-parser-output .mainbanner .visualcontainer{margin:0.75rem auto 0.5rem}.mw-parser-output .message{padding:0 1rem}.mw-parser-output .showcasebanner{padding:0.2rem 0.5rem}.mw-parser-output .showcasebanner .seriesimg{margin-bottom:1rem}}.mw-parser-output .right-chevron-arrow img{filter:invert(43%)sepia(87%)saturate(366%)hue-rotate(164deg)brightness(87%)contrast(98%);vertical-align:inherit}.mw-parser-output .mainbanner .right-chevron-arrow img{width:0.48rem}.mw-parser-output .message .right-chevron-arrow img{width:0.39rem}.mw-parser-output .menuicon img{filter:invert(19%)sepia(6%)saturate(515%)hue-rotate(161deg)brightness(92%)contrast(86%);width:4rem;padding:1rem}.mw-parser-output .menuicon.compensate img{transform:scale(1.2)}&#10;&#10;리브레&amp;#160;위키에 오신&amp;#160;것을 환영합니다.리브레 위키는 다양한 사람들이 정보를&amp;#160;공유하며 함께&amp;#160;만들어가는 위키&amp;#160;사이트입니다. &lt;br /&gt;리브레&amp;#160;위키는 여러분의 참여를 환영합니다. 지금 시작하기&amp;#160;&#10;&#10;2022년 5월 14일, 리브레&amp;#160;위키에서는 최근 활동 위키러 91명과 52,306개의 문서가 함께하고 있습니다.&amp;#160;통계&amp;#160;&#10;&#10;&#10;공지사항&#10;신규 사용자분께서는 리브레 위키:환영합니다 필독해주세요.&#10;위키쨩 문서 처리에 대한 논의가 진행 중입니다.&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;    둘러보기&#10;        &#10;            지게차 &#10;ABS &#10;막걸리 &#10;Google Fi &#10;열차자동방호장치 &#10;트레져 헌터 &#10;우도면 &#10;수원 화성 &#10;크리스토퍼 리 &#10;팬터그래프 &#10;예약 구매 &#10;사진 &#10;&#10;         &#10;&#10;&#10;        &#10;&#10;    &#10;    &#10;쉽게 알 수 있는 학문&amp;#160;: 법률&#10;쉽게 할 수 있는 취미&amp;#160;: 오디오 입문&#10;창작 안내서 시리즈&amp;#160;: 글쓰기&#10;    &#10;    &#10;뭘헤매지 시리즈&amp;#160;: 드라마&#10;여행 시리즈&amp;#160;: 강원&#10;연표 시리즈&amp;#160;: 서브컬처사&#10;    &#10; &#10;기타 시리즈&amp;#160;: 퀴즈&#10;그리고 더 많은 시리즈들!&#10;누구나 편집 가능합니다!&#10;  &#10; &#10;         &#10;&#10;&#10;&#10;오픈 소스와 함께하기리브레 위키의 개발진이 개발하는 Liberty 스킨은 GitLab을 통해 오픈&amp;#160;소스로&amp;#160;공개됩니다. &lt;br /&gt;지속적인 발전을 거듭하는 Liberty는 누구나 GNU GPLv3 하에 무료로 사용하고 개발에 참여할 수&amp;#160;있습니다. &#10;&#10;&#10;&#10;&#10;광고 차단 기능의 해제는 안정적인 운영에 도움이&amp;#160;됩니다. &#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;"/>
+<meta name="keywords" content="리브레 위키,리브레 위키:현관"/>
+<meta name="naver-site-verification" content="0b20790abdd5720e293968109acb489744366ae9"/>
+<meta name="apple-mobile-web-app-capable" content="Yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+<meta name="mobile-web-app-capable" content="Yes"/>
+<meta name="theme-color" content="#4188F1"/>
+<meta name="msapplication-navbutton-color" content="#4188F1"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@librewiki"/>
+<meta name="twitter:creator" content="@librewiki"/>
+<link rel="shortcut icon" href="//image.librewiki.net/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="리브레 위키 (ko)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://librewiki.net/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="리브레 위키 Atom 피드" href="/index.php?title=%ED%8A%B9%EC%88%98:%EC%B5%9C%EA%B7%BC%EB%B0%94%EB%80%9C&amp;feed=atom"/>
+	<meta property="og:type" content="website"/>
+
+	<meta property="og:title" content="리브레 위키"/>
+
+	<meta property="og:description" content="광고 차단 기능의 해제는 안정적인 운영에 도움이&amp;#160;됩니다."/>
+
+	<meta property="og:url" content="https://librewiki.net/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%98%84%EA%B4%80"/>
+
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.13.1/css/all.css" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.13.1/css/v4-shims.css" />
+<link href="https://fonts.googleapis.com/css?family=Dokdo|Gaegu|Nanum+Gothic|Nanum+Gothic+Coding|Nanum+Myeongjo|Noto+Serif+KR|Noto+Sans+KR&display=swap&subset=korean" rel="stylesheet">
+<script async src="https://unpkg.com/share-api-polyfill/dist/share-min.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-리브레_위키_현관 rootpage-리브레_위키_현관 skin-liberty action-view Liberty width-size skin-vector-legacy">		<header>
+			<div class="nav-wrapper navbar-fixed-top">
+						<nav class="navbar navbar-dark">
+			<a class="navbar-brand" href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%98%84%EA%B4%80"></a>
+			<ul class="nav navbar-nav">
+				<li class="nav-item">
+					<a href="/wiki/%ED%8A%B9%EC%88%98:%EC%B5%9C%EA%B7%BC%EB%B0%94%EB%80%9C" class="nav-link" title="위키의 최근 바뀐 목록 [r]" accesskey="r"><span class="fas fa-sync"></span><span class="hide-title">최근 바뀜</span></a>				</li>
+				<li class="nav-item">
+					<a href="/wiki/%ED%8A%B9%EC%88%98:%EC%9E%84%EC%9D%98%EB%AC%B8%EC%84%9C" class="nav-link" title="무작위로 선택된 문서 불러오기 [x]" accesskey="x"><span class="fa fa-random"></span><span class="hide-title">임의 문서</span></a>				</li>
+				<li class="dropdown nav-item"><a class="nav-link" data-toggle="" role="button" aria-haspopup="true" aria-expanded="true" title="https://maps.librewiki.net/" href="https://maps.librewiki.net/"><span class="fa fa-map"></span><span class="hide-title">맵스</span></a></li><li class="dropdown nav-item"><a class="nav-link dropdown-toggle dropdown-toggle-fix" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true" title="게시판"><span class="fa fa-comments"></span><span class="hide-title">게시판</span></a><div class="dropdown-menu" role="menu"><a class="dropdown-item" href="https://bbs.librewiki.net/" title="https://bbs.librewiki.net/"><span class="fa fa-comment"></span>위키방</a><a class="dropdown-item" href="https://bbs.librewiki.net/freeboard" title="https://bbs.librewiki.net/freeboard"><span class="fa fa-comment"></span>자유게시판</a></div></li><li class="dropdown nav-item"><a class="nav-link dropdown-toggle dropdown-toggle-fix" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true" title="도구"><span class="fa fa-wrench"></span><span class="hide-title">도구</span></a><div class="dropdown-menu" role="menu"><a class="dropdown-item" href="/wiki/%ED%8A%B9%EC%88%98:%ED%8A%B9%EC%88%98%EB%AC%B8%EC%84%9C" title="특수:특수문서"><span class="fa fa-gear"></span>특수 문서 목록</a><a class="dropdown-item" href="/wiki/%ED%8A%B9%EC%88%98:%EC%98%AC%EB%A6%AC%EA%B8%B0" title="특수:올리기"><span class="fa fa-upload"></span>업로드</a></div></li><li class="dropdown nav-item"><a class="nav-link dropdown-toggle dropdown-toggle-fix" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true" title="도움말"><span class="fa fa-question"></span><span class="hide-title">도움말</span></a><div class="dropdown-menu" role="menu"><a class="dropdown-item" href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EB%8F%84%EC%9B%80%EB%A7%90" title="리브레_위키:도움말"><span class="fa fa-tag"></span>개요</a><a class="dropdown-item" href="/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EC%9C%84%ED%82%A4_%EB%AC%B8%EB%B2%95" title="도움말:위키_문법"><span class="fa fa-book"></span>위키 문법</a><a class="dropdown-item" href="/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:TeX_%EB%AC%B8%EB%B2%95" title="도움말:TeX_문법"><span class="fa fa-calculator"></span>TeX 문법</a></div></li>			</ul>
+					<div class="navbar-login">
+							<a href="#" class="none-outline" data-toggle="modal" data-target="#login-modal">
+					<span class="fa fa-sign-in"></span>
+				</a>
+					</div>
+									<form action="/index.php" id="searchform" class="form-inline">
+			<input type="hidden" name="title" value="특수:검색" />
+			<div class="input-group">
+				<input type="search" name="search" placeholder="리브레 위키 검색" title="리브레 위키 검색 [f]" accesskey="f" class="form-control" id="searchInput"/>				<span class="input-group-btn">
+					<button type="submit" name="go" value="보기" id="searchGoButton" class="btn btn-secondary" type="button"><span class="fa fa-eye"></span></button>
+					<button type="submit" name="fulltext" value="검색" id="mw-searchButton" class="btn btn-secondary" type="button">
+						<span class="fa fa-search"></span></button>
+				</span>
+			</div>
+		</form>
+			</nav>
+				</div>
+		</header>
+		<section>
+			<div class="content-wrapper">
+									<aside>
+						<div class="liberty-sidebar">
+							<div class="live-recent-wrapper">
+										<div class="live-recent" data-article-ns="0|4|10|12|14|0|4|10|12|14|1600" data-talk-ns="1|3|5|7|9|11|13|15|1|3|5|7|9|11|13|15|1601|3604|3605">
+			<div class="live-recent-header">
+				<ul class="nav nav-tabs">
+					<li class="nav-item">
+						<a href="javascript:" class="nav-link active" id="liberty-recent-tab1">
+							최근 바뀜						</a>
+					</li>
+					<li class="nav-item">
+						<a href="javascript:" class="nav-link" id="liberty-recent-tab2">
+							최근 토론						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="live-recent-content">
+				<ul class="live-recent-list" id="live-recent-list">
+					<li><span class="recent-item">&nbsp;</span></li><li><span class="recent-item">&nbsp;</span></li><li><span class="recent-item">&nbsp;</span></li><li><span class="recent-item">&nbsp;</span></li><li><span class="recent-item">&nbsp;</span></li><li><span class="recent-item">&nbsp;</span></li><li><span class="recent-item">&nbsp;</span></li><li><span class="recent-item">&nbsp;</span></li><li><span class="recent-item">&nbsp;</span></li><li><span class="recent-item">&nbsp;</span></li>				</ul>
+			</div>
+			<div class="live-recent-footer">
+				<a href="/wiki/%ED%8A%B9%EC%88%98:%EC%B5%9C%EA%B7%BC%EB%B0%94%EB%80%9C" title="특수:최근바뀜"><span class="label label-info">더 보기</span></a>			</div>
+		</div>
+									</div>
+									<div class="right-ads">
+			<ins class="adsbygoogle" data-full-width-responsive="true" data-ad-client="ca-pub-9526107750460253" data-ad-slot="6581447128" data-ad-format="auto">
+			</ins>
+		</div>
+						</div>
+					</aside>
+								<div class="container-fluid liberty-content">
+					<div class="liberty-content-header">
+													<div class="alert alert-dismissible fade in alert-info liberty-notice" role="alert">
+								<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+								<div id="localNotice" lang="ko" dir="ltr"><ul><li>신규 사용자분께서는 <a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" title="리브레 위키:환영합니다"><span style="color: green;">리브레 위키:환영합니다</span></a> 필독해주세요.</li>
+<li><a href="/wiki/%ED%8A%B9%EC%88%98:%EA%B3%84%EC%A0%95%EB%A7%8C%EB%93%A4%EA%B8%B0" title="특수:계정만들기"><span style="color: orange;">가입 후 지속적인 기여는 위키에 큰 도움이 됩니다.</span></a></li>
+<li>로그인이 잘 되지 않을 경우 <a href="/wiki/%ED%8A%B9%EC%88%98:%EB%A1%9C%EA%B7%B8%EC%9D%B8" title="특수:로그인"><span style="color: green;">여기</span></a>에서 로그인해주세요.</li></ul></div>							</div>
+														<div class="header-ads">
+			<ins class="adsbygoogle" data-full-width-responsive="false" data-ad-client="ca-pub-9526107750460253" data-ad-slot="3627980722" data-ad-format="horizontal">
+			</ins>
+		</div>
+			<div class="content-tools">
+				<div class="btn-group" role="group" aria-label="content-tools">
+					<a href="/index.php?title=%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%98%84%EA%B4%80&amp;action=edit" class="btn btn-secondary tools-btn" title="이 문서 편집하기 [e]" id="ca-edit" accesskey="e"><i class="fa fa-lock"></i> 편집</a><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4%ED%86%A0%EB%A1%A0:%ED%98%84%EA%B4%80" class="btn btn-secondary tools-btn" title="문서의 내용에 대한 토론 문서 [t]" accesskey="t">토론</a><a href="/index.php?title=%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%98%84%EA%B4%80&amp;action=history" class="btn btn-secondary tools-btn" title="문서의 과거 판 [h]" accesskey="h">기록</a>						<button type="button" class="btn btn-secondary tools-btn tools-share">
+							<i class="far fa-share-square"></i>
+							공유						</button>
+										<button type="button" class="btn btn-secondary tools-btn dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+						<span class="caret"></span>
+					</button>
+					<div class="dropdown-menu dropdown-menu-right" role="menu">
+						<a href="/index.php?title=%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%98%84%EA%B4%80&amp;action=purge" class="dropdown-item" title="이 문서의 캐시를 새로 고칩니다. [alt+shift+p]" accesskey="p">새로 고침</a><a href="/index.php?title=%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%98%84%EA%B4%80&amp;action=watch" class="dropdown-item" title="이 문서를 주시문서 목록에 추가 [w]" accesskey="w">주시</a><a href="/wiki/%ED%8A%B9%EC%88%98:%EA%B0%80%EB%A6%AC%ED%82%A4%EB%8A%94%EB%AC%B8%EC%84%9C/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%98%84%EA%B4%80" class="dropdown-item" title="여기를 가리키는 모든 위키 문서의 목록 [j]" accesskey="j">여기를 가리키는 문서</a><a href="/index.php?title=%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%98%84%EA%B4%80&amp;action=info" class="dropdown-item" title="문서의 정보를 열람합니다">정보</a>											</div>
+				</div>
+			</div>
+								<div class="title">
+							<h1>
+								리브레 위키:현관							</h1>
+						</div>
+						<div class="contentSub" >
+													</div>
+					</div>
+					<div class="liberty-content-main" id="content">
+						<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>						<article class="mw-body-content">
+							<div id="mw-content-text" lang="ko" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r1344121">.mw-parser-output p,.mw-parser-output a,.mw-parser-output li{word-break:keep-all;overflow-wrap:break-word}.mw-parser-output .mainbanner{padding:3rem 2.5rem}.mw-parser-output .mainbanner .visualcontainer{float:right;margin:-1.1rem -0.5rem 0 0;max-width:280px}.mw-parser-output .devbanner{padding:2rem 3.1rem 2rem}.mw-parser-output .devbanner .visualcontainer{float:left;margin-top:-1.5rem;margin-right:2rem}.mw-parser-output .message{padding:0 2.5rem}.mw-parser-output a[href="/wiki/%EB%AF%B8%EB%94%94%EC%96%B4%EC%9C%84%ED%82%A4:Sitenotice"]{text-decoration:none!important}.mw-parser-output .menugrid{margin:2.8rem 1rem 3.75rem;font-size:1.2rem;text-align:center}.mw-parser-output .showcasebanner{padding:1rem 2.5rem;margin:1rem auto 0}.mw-parser-output .showcasebanner .title{margin:-0.25rem auto 0.5rem}.mw-parser-output .showcasebanner .seriesimg{margin-bottom:3rem}.mw-parser-output .lookaroundcontainer{column-count:3;column-gap:20px;max-height:22rem}.mw-parser-output .lookaround,.mw-parser-output .lookaround ul{margin:0!important}.mw-parser-output .lookaround li{list-style:none;line-height:80px}.mw-parser-output .lookaround li hr{margin:0!important}.mw-parser-output .lookaround li .item{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.mw-parser-output .lookaround li .imgbox{width:60px;height:60px;display:inline-block;text-align:center;margin:0 0.6rem 0 0.5rem;vertical-align:middle;position:relative}.mw-parser-output .lookaround li .imgbox img{width:auto;height:auto;max-width:100%;max-height:100%;border-radius:0.35rem;position:absolute;height:auto;margin:auto;top:0;bottom:0;left:0;right:0}@media(min-width:900px){.mw-parser-output .lookaround ul>li:last-child>hr,.mw-parser-output .lookaround ul>li:nth-child(4)>hr,.mw-parser-output .lookaround ul>li:nth-child(8)>hr{display:none}}@media(min-width:600px)and (max-width:900px){.mw-parser-output .lookaroundcontainer{column-count:2;max-height:33rem}.mw-parser-output .lookaround ul>li:last-child>hr,.mw-parser-output .lookaround ul>li:nth-child(6)>hr,.mw-parser-output .lookaround ul>li:nth-child(12)>hr{display:none}}@media(max-width:768px){.mw-parser-output .mainbanner,.mw-parser-output .devbanner{padding-bottom:1.5rem}.mw-parser-output .mainbanner .visualcontainer,.mw-parser-output .devbanner .visualcontainer{float:none;display:block;text-align:center}.mw-parser-output .mainbanner .visualcontainer{margin:-1.5rem auto 0}.mw-parser-output .devbanner .visualcontainer{margin:-1.5rem auto 0.5rem}}@media(min-width:600px)and (max-width:768px){.mw-parser-output .mainbanner .visualcontainer,.mw-parser-output .devbanner .visualcontainer{max-width:70%}.mw-parser-output .showcasebanner{padding:1rem}}@media(max-width:600px){.mw-parser-output .mainbanner .visualcontainer,.mw-parser-output .devbanner .visualcontainer{max-width:100%}.mw-parser-output .showcasebanner{padding:0.5rem 1rem}.mw-parser-output .showcasebanner .title{margin:0 auto 0rem}.mw-parser-output .showcasebanner .floatleft{float:none;display:block;text-align:center}.mw-parser-output .lookaroundcontainer{column-count:1;max-height:none}.mw-parser-output .lookaround ul>li:last-child>hr{display:none}}@media(max-width:544px){.mw-parser-output .menugrid{margin:1rem 0 2rem;font-size:1.09rem}.mw-parser-output .showcasebanner img{margin:0}}@media(max-width:480px){.mw-parser-output .mainbanner,.mw-parser-output .devbanner{padding:1rem 1rem}.mw-parser-output .mainbanner .visualcontainer{margin:0.75rem auto 0.5rem}.mw-parser-output .message{padding:0 1rem}.mw-parser-output .showcasebanner{padding:0.2rem 0.5rem}.mw-parser-output .showcasebanner .seriesimg{margin-bottom:1rem}}.mw-parser-output .right-chevron-arrow img{filter:invert(43%)sepia(87%)saturate(366%)hue-rotate(164deg)brightness(87%)contrast(98%);vertical-align:inherit}.mw-parser-output .mainbanner .right-chevron-arrow img{width:0.48rem}.mw-parser-output .message .right-chevron-arrow img{width:0.39rem}.mw-parser-output .menuicon img{filter:invert(19%)sepia(6%)saturate(515%)hue-rotate(161deg)brightness(92%)contrast(86%);width:4rem;padding:1rem}.mw-parser-output .menuicon.compensate img{transform:scale(1.2)}</style>
+<div class="mainbanner">
+<span class="visualcontainer"><img alt="" src="https://image.librewiki.net/5/51/Libre_Wiki_main_visual_graphic_1.png" decoding="async" width="600" height="450" /></span><span style="font-size: 2rem; font-weight: 700; line-height: 160%; word-break: keep-all;">리브레&#160;위키에 오신&#160;것을 환영합니다.</span><span style="font-size: 1.1rem; font-weight: 400; line-height: 195%; word-break: keep-all; margin-top: 0.45rem; display: block;"><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4" title="리브레 위키">리브레 위키</a>는 다양한 사람들이 정보를&#160;공유하며 함께&#160;만들어가는 위키&#160;사이트입니다. <br />리브레&#160;위키는 여러분의 참여를 환영합니다. </span><span style="font-size: 1.1rem; font-weight: 400; line-height: 190%; margin: 0.5rem 0 0; display: block;"><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" title="리브레 위키:환영합니다"><span style="word-break: keep-all;">지금 시작하기</span></a><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" title="리브레 위키:환영합니다">&#160;</a><span class="right-chevron-arrow" style="max-width: 1rem; display: inline-block;"><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" title="리브레 위키:환영합니다"><img alt="" src="https://image.librewiki.net/thumb/8/83/Cid03043.svg/512px-Cid03043.svg.png" decoding="async" width="512" height="913" srcset="https://image.librewiki.net/thumb/8/83/Cid03043.svg/768px-Cid03043.svg.png 1.5x, https://image.librewiki.net/thumb/8/83/Cid03043.svg/1024px-Cid03043.svg.png 2x" /></a></span></span></div>
+<hr />
+<div class="message" style="font-weight: 400; line-height: 190%; margin: 1.2rem auto; word-break: keep-all; display: block; clear:none; text-align: center;"><a href="/wiki/2022%EB%85%84" title="2022년">2022년</a> <a href="/wiki/5%EC%9B%94_14%EC%9D%BC" title="5월 14일">5월 14일</a>, 리브레&#160;위키에서는 최근 활동 위키러 91명과 52,306개의 문서가 함께하고 <span style="white-space: pre; word-break: keep-all;">있습니다.&#160;<a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%86%B5%EA%B3%84" title="리브레 위키:통계"><span style="word-break: keep-all; word-wrap: normal;">통계</span></a><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%86%B5%EA%B3%84" title="리브레 위키:통계">&#160;</a><span class="right-chevron-arrow" style="max-width: 1rem; display: inline-block;"><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%86%B5%EA%B3%84" title="리브레 위키:통계"><img alt="" src="https://image.librewiki.net/thumb/8/83/Cid03043.svg/512px-Cid03043.svg.png" decoding="async" width="512" height="913" srcset="https://image.librewiki.net/thumb/8/83/Cid03043.svg/768px-Cid03043.svg.png 1.5x, https://image.librewiki.net/thumb/8/83/Cid03043.svg/1024px-Cid03043.svg.png 2x" /></a></span></span>
+</div>
+<div style="background: hsl(0 0% 50% / 5%); margin: 1.1rem auto; padding: 1rem; max-width: 57rem; display: block;">
+<a href="/wiki/%EB%AF%B8%EB%94%94%EC%96%B4%EC%9C%84%ED%82%A4:Sitenotice" title="미디어위키:Sitenotice"><span style="cursor: text;"><div class="btn-secondary" style="font-size: 1.2rem; font-weight: 700; text-align: center; margin: 0 auto 0.5rem; background: none !important; pointer-events: none; text-decoration: none;">공지사항</div></span></a><span style="word-break: keep-all;">
+<ul><li>신규 사용자분께서는 <a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" title="리브레 위키:환영합니다"><span style="color: green;">리브레 위키:환영합니다</span></a> 필독해주세요.</li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9C%84%ED%82%A4%EB%B0%A9/%EC%9C%84%ED%82%A4%EC%A8%A9_%EB%AC%B8%EC%84%9C_%EC%B2%98%EB%A6%AC" title="리브레 위키:위키방/위키쨩 문서 처리">위키쨩 문서 처리에 대한 논의가 진행 중입니다.</a></li></ul>
+<p class="mw-empty-elt">
+</p>
+</span></div>
+<div class="menugrid">
+<table style="margin: auto; width: 100%;">
+
+<tbody><tr>
+<td style="width: 25%;"><span class="menuicon"><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8" title="리브레 위키:편집지침"><img alt="" src="https://image.librewiki.net/thumb/6/67/Pencil-ruler-solid.svg/512px-Pencil-ruler-solid.svg.png" decoding="async" width="512" height="512" srcset="https://image.librewiki.net/thumb/6/67/Pencil-ruler-solid.svg/768px-Pencil-ruler-solid.svg.png 1.5x, https://image.librewiki.net/thumb/6/67/Pencil-ruler-solid.svg/1024px-Pencil-ruler-solid.svg.png 2x" /></a></span>
+</td>
+<td style="width: 25%;"><span class="menuicon"><a href="/wiki/%EB%A7%88%EB%8B%B9:%ED%98%84%EA%B4%80" title="마당:현관"><img alt="" src="https://image.librewiki.net/thumb/d/da/Shapes-solid.svg/512px-Shapes-solid.svg.png" decoding="async" width="512" height="512" srcset="https://image.librewiki.net/thumb/d/da/Shapes-solid.svg/768px-Shapes-solid.svg.png 1.5x, https://image.librewiki.net/thumb/d/da/Shapes-solid.svg/1024px-Shapes-solid.svg.png 2x" /></a></span>
+</td>
+<td style="width: 25%;"><span class="menuicon"><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%97%B0%EC%8A%B5%EC%9E%A5" title="리브레 위키:연습장"><img alt="" src="https://image.librewiki.net/thumb/e/ef/Sticky-note-solid.svg/512px-Sticky-note-solid.svg.png" decoding="async" width="512" height="512" srcset="https://image.librewiki.net/thumb/e/ef/Sticky-note-solid.svg/768px-Sticky-note-solid.svg.png 1.5x, https://image.librewiki.net/thumb/e/ef/Sticky-note-solid.svg/1024px-Sticky-note-solid.svg.png 2x" /></a></span>
+</td>
+<td style="width: 25%;"><span class="menuicon compensate"><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9A%B4%EC%98%81%EC%A7%84_%EC%9A%94%EC%B2%AD" title="리브레 위키:운영진 요청"><img alt="" src="https://image.librewiki.net/thumb/b/b6/Users-cog-solid.svg/512px-Users-cog-solid.svg.png" decoding="async" width="512" height="512" srcset="https://image.librewiki.net/thumb/b/b6/Users-cog-solid.svg/768px-Users-cog-solid.svg.png 1.5x, https://image.librewiki.net/thumb/b/b6/Users-cog-solid.svg/1024px-Users-cog-solid.svg.png 2x" /></a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8" title="리브레 위키:편집지침"><span style="display: inline-block; word-break: keep-all;">
+편집지침</span></a>
+</td>
+<td><a href="/wiki/%EB%A7%88%EB%8B%B9:%ED%98%84%EA%B4%80" title="마당:현관"><span style="display: inline-block; word-break: keep-all;">
+한마당</span></a>
+</td>
+<td><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%97%B0%EC%8A%B5%EC%9E%A5" title="리브레 위키:연습장"><span style="display: inline-block; word-break: keep-all;">
+연습장</span></a>
+</td>
+<td><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9A%B4%EC%98%81%EC%A7%84_%EC%9A%94%EC%B2%AD" title="리브레 위키:운영진 요청"><span style="display: inline-block; word-break: keep-all;">
+운영진 요청</span></a>
+</td></tr></tbody></table>
+</div>
+<hr />
+<div class="showcasebanner">
+    <div class="title" style="font-size: 1.2rem; font-weight: 700; text-align: center;">둘러보기</div>
+        <div class="lookaroundcontainer" style=""><ul class="lookaround">
+            <div class="documentlist"><ul><li><span class="item"><span class="imgbox"><a href="/wiki/%EC%A7%80%EA%B2%8C%EC%B0%A8" title="지게차"><img alt="RAF Delivers Aid to Flood Hit Pakistan MOD 45151688.jpg" src="https://image.librewiki.net/thumb/f/f6/RAF_Delivers_Aid_to_Flood_Hit_Pakistan_MOD_45151688.jpg/60px-RAF_Delivers_Aid_to_Flood_Hit_Pakistan_MOD_45151688.jpg" decoding="async" width="60" height="37" srcset="https://image.librewiki.net/thumb/f/f6/RAF_Delivers_Aid_to_Flood_Hit_Pakistan_MOD_45151688.jpg/90px-RAF_Delivers_Aid_to_Flood_Hit_Pakistan_MOD_45151688.jpg 1.5x, https://image.librewiki.net/thumb/f/f6/RAF_Delivers_Aid_to_Flood_Hit_Pakistan_MOD_45151688.jpg/120px-RAF_Delivers_Aid_to_Flood_Hit_Pakistan_MOD_45151688.jpg 2x" /></a></span><a href="/wiki/%EC%A7%80%EA%B2%8C%EC%B0%A8" title="지게차">지게차</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/ABS" title="ABS"><img alt="Anti-lock braking system logo.png" src="https://image.librewiki.net/thumb/6/68/Anti-lock_braking_system_logo.png/60px-Anti-lock_braking_system_logo.png" decoding="async" width="60" height="60" srcset="https://image.librewiki.net/thumb/6/68/Anti-lock_braking_system_logo.png/90px-Anti-lock_braking_system_logo.png 1.5x, https://image.librewiki.net/thumb/6/68/Anti-lock_braking_system_logo.png/120px-Anti-lock_braking_system_logo.png 2x" /></a></span><a href="/wiki/ABS" title="ABS">ABS</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/%EB%A7%89%EA%B1%B8%EB%A6%AC" title="막걸리"><img alt="문서 아이콘 blank.svg" src="https://image.librewiki.net/thumb/2/23/%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg/60px-%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg.png" decoding="async" width="60" height="60" srcset="https://image.librewiki.net/thumb/2/23/%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg/90px-%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg.png 1.5x, https://image.librewiki.net/thumb/2/23/%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg/120px-%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg.png 2x" /></a></span><a href="/wiki/%EB%A7%89%EA%B1%B8%EB%A6%AC" title="막걸리">막걸리</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/Google_Fi" title="Google Fi"><img alt="Google Fi SIM.png" src="https://image.librewiki.net/thumb/4/48/Google_Fi_SIM.png/60px-Google_Fi_SIM.png" decoding="async" width="60" height="45" srcset="https://image.librewiki.net/thumb/4/48/Google_Fi_SIM.png/90px-Google_Fi_SIM.png 1.5x, https://image.librewiki.net/thumb/4/48/Google_Fi_SIM.png/120px-Google_Fi_SIM.png 2x" /></a></span><a href="/wiki/Google_Fi" title="Google Fi">Google Fi</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/%EC%97%B4%EC%B0%A8%EC%9E%90%EB%8F%99%EB%B0%A9%ED%98%B8%EC%9E%A5%EC%B9%98" title="열차자동방호장치"><img alt="열차자동방호장치.jpg" src="https://image.librewiki.net/thumb/7/78/%EC%97%B4%EC%B0%A8%EC%9E%90%EB%8F%99%EB%B0%A9%ED%98%B8%EC%9E%A5%EC%B9%98.jpg/60px-%EC%97%B4%EC%B0%A8%EC%9E%90%EB%8F%99%EB%B0%A9%ED%98%B8%EC%9E%A5%EC%B9%98.jpg" decoding="async" width="60" height="52" srcset="https://image.librewiki.net/thumb/7/78/%EC%97%B4%EC%B0%A8%EC%9E%90%EB%8F%99%EB%B0%A9%ED%98%B8%EC%9E%A5%EC%B9%98.jpg/90px-%EC%97%B4%EC%B0%A8%EC%9E%90%EB%8F%99%EB%B0%A9%ED%98%B8%EC%9E%A5%EC%B9%98.jpg 1.5x, https://image.librewiki.net/thumb/7/78/%EC%97%B4%EC%B0%A8%EC%9E%90%EB%8F%99%EB%B0%A9%ED%98%B8%EC%9E%A5%EC%B9%98.jpg/120px-%EC%97%B4%EC%B0%A8%EC%9E%90%EB%8F%99%EB%B0%A9%ED%98%B8%EC%9E%A5%EC%B9%98.jpg 2x" /></a></span><a href="/wiki/%EC%97%B4%EC%B0%A8%EC%9E%90%EB%8F%99%EB%B0%A9%ED%98%B8%EC%9E%A5%EC%B9%98" title="열차자동방호장치">열차자동방호장치</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/%ED%8A%B8%EB%A0%88%EC%A0%B8_%ED%97%8C%ED%84%B0" title="트레져 헌터"><img alt="Treasure Hunter Season2.png" src="https://image.librewiki.net/thumb/e/eb/Treasure_Hunter_Season2.png/60px-Treasure_Hunter_Season2.png" decoding="async" width="60" height="127" srcset="https://image.librewiki.net/thumb/e/eb/Treasure_Hunter_Season2.png/90px-Treasure_Hunter_Season2.png 1.5x, https://image.librewiki.net/thumb/e/eb/Treasure_Hunter_Season2.png/120px-Treasure_Hunter_Season2.png 2x" /></a></span><a href="/wiki/%ED%8A%B8%EB%A0%88%EC%A0%B8_%ED%97%8C%ED%84%B0" class="mw-redirect" title="트레져 헌터">트레져 헌터</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/%EC%9A%B0%EB%8F%84%EB%A9%B4" title="우도면"><img alt="우도.JPG" src="https://image.librewiki.net/thumb/c/cb/%EC%9A%B0%EB%8F%84.JPG/60px-%EC%9A%B0%EB%8F%84.JPG" decoding="async" width="60" height="40" srcset="https://image.librewiki.net/thumb/c/cb/%EC%9A%B0%EB%8F%84.JPG/90px-%EC%9A%B0%EB%8F%84.JPG 1.5x, https://image.librewiki.net/thumb/c/cb/%EC%9A%B0%EB%8F%84.JPG/120px-%EC%9A%B0%EB%8F%84.JPG 2x" /></a></span><a href="/wiki/%EC%9A%B0%EB%8F%84%EB%A9%B4" title="우도면">우도면</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1" title="수원 화성"><img alt="수원화성.JPG" src="https://image.librewiki.net/thumb/1/18/%EC%88%98%EC%9B%90%ED%99%94%EC%84%B1.JPG/60px-%EC%88%98%EC%9B%90%ED%99%94%EC%84%B1.JPG" decoding="async" width="60" height="40" srcset="https://image.librewiki.net/thumb/1/18/%EC%88%98%EC%9B%90%ED%99%94%EC%84%B1.JPG/90px-%EC%88%98%EC%9B%90%ED%99%94%EC%84%B1.JPG 1.5x, https://image.librewiki.net/thumb/1/18/%EC%88%98%EC%9B%90%ED%99%94%EC%84%B1.JPG/120px-%EC%88%98%EC%9B%90%ED%99%94%EC%84%B1.JPG 2x" /></a></span><a href="/wiki/%EC%88%98%EC%9B%90_%ED%99%94%EC%84%B1" title="수원 화성">수원 화성</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC_%EB%A6%AC" title="크리스토퍼 리"><img alt="Christopher Lee at the Berlin International Film Festival 2013.jpg" src="https://image.librewiki.net/thumb/5/5a/Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg/60px-Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg" decoding="async" width="60" height="90" srcset="https://image.librewiki.net/thumb/5/5a/Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg/90px-Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg 1.5x, https://image.librewiki.net/thumb/5/5a/Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg/120px-Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg 2x" /></a></span><a href="/wiki/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC_%EB%A6%AC" title="크리스토퍼 리">크리스토퍼 리</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/%ED%8C%AC%ED%84%B0%EA%B7%B8%EB%9E%98%ED%94%84" title="팬터그래프"><img alt="Nooriro(2).JPG" src="https://image.librewiki.net/thumb/f/f8/Nooriro%282%29.JPG/60px-Nooriro%282%29.JPG" decoding="async" width="60" height="45" srcset="https://image.librewiki.net/thumb/f/f8/Nooriro%282%29.JPG/90px-Nooriro%282%29.JPG 1.5x, https://image.librewiki.net/thumb/f/f8/Nooriro%282%29.JPG/120px-Nooriro%282%29.JPG 2x" /></a></span><a href="/wiki/%ED%8C%AC%ED%84%B0%EA%B7%B8%EB%9E%98%ED%94%84" title="팬터그래프">팬터그래프</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/%EC%98%88%EC%95%BD_%EA%B5%AC%EB%A7%A4" title="예약 구매"><img alt="문서 아이콘 blank.svg" src="https://image.librewiki.net/thumb/2/23/%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg/60px-%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg.png" decoding="async" width="60" height="60" srcset="https://image.librewiki.net/thumb/2/23/%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg/90px-%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg.png 1.5x, https://image.librewiki.net/thumb/2/23/%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg/120px-%EB%AC%B8%EC%84%9C_%EC%95%84%EC%9D%B4%EC%BD%98_blank.svg.png 2x" /></a></span><a href="/wiki/%EC%98%88%EC%95%BD_%EA%B5%AC%EB%A7%A4" title="예약 구매">예약 구매</a> </span>
+<hr /></li><li><span class="item"><span class="imgbox"><a href="/wiki/%EC%82%AC%EC%A7%84" title="사진"><img alt="Susse Frére Daguerreotype camera 1839.jpg" src="https://image.librewiki.net/thumb/5/57/Susse_Fr%C3%A9re_Daguerreotype_camera_1839.jpg/60px-Susse_Fr%C3%A9re_Daguerreotype_camera_1839.jpg" decoding="async" width="60" height="48" srcset="https://image.librewiki.net/thumb/5/57/Susse_Fr%C3%A9re_Daguerreotype_camera_1839.jpg/90px-Susse_Fr%C3%A9re_Daguerreotype_camera_1839.jpg 1.5x, https://image.librewiki.net/thumb/5/57/Susse_Fr%C3%A9re_Daguerreotype_camera_1839.jpg/120px-Susse_Fr%C3%A9re_Daguerreotype_camera_1839.jpg 2x" /></a></span><a href="/wiki/%EC%82%AC%EC%A7%84" title="사진">사진</a> </span>
+<hr /></li></ul></div>
+         </ul></div>
+</div>
+<div class="showcasebanner">
+        <div>
+<div style="display:inline-block;clear:none; width:100%;">
+    <div class="seriesimg" style="align-items:center; overflow-y:hidden;"><div class="center"><div class="floatnone"><a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%8B%9C%EB%A6%AC%EC%A6%88" title="시리즈:리브레 시리즈"><img alt="Libreseries ALTER.png" src="https://image.librewiki.net/8/8e/Libreseries_ALTER.png" decoding="async" width="470" height="75" /></a></div></div></div>
+    <div class="floatleft" style="min-width:33%;height:auto;clear:none;overflow-y:auto">
+<ul><li><a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%89%BD%EA%B2%8C_%EC%95%8C_%EC%88%98_%EC%9E%88%EB%8B%A4" title="시리즈:쉽게 알 수 있다">쉽게 알 수 있는 학문</a>&#160;: <a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%84%B8%EC%83%81_%EC%82%AC%EB%8A%94_%EB%8D%B0_%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4_%EC%A2%8B%EC%9D%84_%EB%B2%95%EB%A5%A0_%EC%9A%A9%EC%96%B4" title="시리즈:세상 사는 데 알아두면 좋을 법률 용어">법률</a></li>
+<li><a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%89%BD%EA%B2%8C_%EC%95%8C_%EC%88%98_%EC%9E%88%EB%8B%A4" title="시리즈:쉽게 알 수 있다">쉽게 할 수 있는 취미</a>&#160;: <a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%A1%B0%EA%B8%88%EB%A7%8C_%EC%95%8C%EC%95%84%EB%8F%84_%EC%89%AC%EC%9B%8C%EC%A7%80%EB%8A%94_%EC%98%A4%EB%94%94%EC%98%A4_%EC%9E%85%EB%AC%B8" title="시리즈:조금만 알아도 쉬워지는 오디오 입문">오디오 입문</a></li>
+<li><a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%B0%BD%EC%9E%91%EC%9D%98_%EC%84%B8%EA%B3%84%EC%97%90_%EC%9E%85%EB%AC%B8%ED%95%98%EB%A0%A4%EB%8A%94_%ED%9E%88%EC%B9%98%ED%95%98%EC%9D%B4%EC%BB%A4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%95%88%EB%82%B4%EC%84%9C" title="시리즈:창작의 세계에 입문하려는 히치하이커를 위한 안내서">창작 안내서 시리즈</a>&#160;: <a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EA%B8%80%EC%93%B0%EA%B8%B0%EC%97%90_%EC%9E%85%EB%AC%B8%ED%95%98%EB%A0%A4%EB%8A%94_%ED%9E%88%EC%B9%98%ED%95%98%EC%9D%B4%EC%BB%A4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EC%95%88%EB%82%B4%EC%84%9C" title="시리즈:글쓰기에 입문하려는 히치하이커를 위한 안내서">글쓰기</a></li></ul>
+    </div>
+    <div class="floatleft" style="min-width:33%;height:auto;clear:none;overflow-y:auto">
+<ul><li><a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EB%AD%98_%ED%95%A0%EC%A7%80,_%EB%AD%98_%EB%B3%BC%EC%A7%80_%ED%97%A4%EB%A7%A4%EB%8A%94_%EB%8B%B9%EC%8B%A0%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%A7%80%EC%B9%A8%EC%84%9C" title="시리즈:뭘 할지, 뭘 볼지 헤매는 당신을 위한 지침서">뭘헤매지 시리즈</a>&#160;: <a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EB%AD%98_%ED%95%A0%EC%A7%80,_%EB%AD%98_%EB%B3%BC%EC%A7%80_%ED%97%A4%EB%A7%A4%EB%8A%94_%EB%8B%B9%EC%8B%A0%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%A7%80%EC%B9%A8%EC%84%9C/%EB%93%9C%EB%9D%BC%EB%A7%88" title="시리즈:뭘 할지, 뭘 볼지 헤매는 당신을 위한 지침서/드라마">드라마</a></li>
+<li><a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%97%AC%ED%96%89" title="시리즈:여행">여행 시리즈</a>&#160;: <a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EC%82%B0%EC%9C%BC%EB%A1%9C_%EA%B0%95%EC%9C%BC%EB%A1%9C_%EC%9E%90%EC%97%B0%EC%9C%BC%EB%A1%9C_%EA%B0%95%EC%9B%90%EB%8F%84_%EC%97%AC%ED%96%89" title="시리즈:산으로 강으로 자연으로 강원도 여행">강원</a></li>
+<li><a href="/wiki/%EC%97%B0%ED%91%9C" title="연표">연표 시리즈</a>&#160;: <a href="/wiki/%EC%84%9C%EB%B8%8C%EC%BB%AC%EC%B2%98/%EC%97%B0%ED%91%9C" title="서브컬처/연표">서브컬처사</a></li></ul>
+    </div>
+ <div class="floatleft" style="min-width:33%;height:auto;clear:none;overflow-y:auto">
+<ul><li>기타 시리즈&#160;: <a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EB%A8%B8%EB%A6%AC%EA%B0%80_%EC%95%84%ED%94%84%EB%8B%88%EA%B9%8C_%ED%80%B4%EC%A6%88%EB%8B%A4" title="시리즈:머리가 아프니까 퀴즈다">퀴즈</a></li>
+<li><b><a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%8B%9C%EB%A6%AC%EC%A6%88" title="시리즈:리브레 시리즈">그리고 더 많은 시리즈들!</a></b></li>
+<li>누구나 편집 가능합니다!</li></ul>
+  </div>
+</div> 
+         </div>
+</div>
+<hr />
+<div class="devbanner" style="max-width: 58rem; margin: auto; word-break: keep-all;"><span class="visualcontainer"><img alt="" src="https://image.librewiki.net/thumb/5/5f/Gaebal_2_%ED%88%AC%EB%AA%85.png/200px-Gaebal_2_%ED%88%AC%EB%AA%85.png" decoding="async" width="200" height="170" srcset="https://image.librewiki.net/thumb/5/5f/Gaebal_2_%ED%88%AC%EB%AA%85.png/300px-Gaebal_2_%ED%88%AC%EB%AA%85.png 1.5x, https://image.librewiki.net/5/5f/Gaebal_2_%ED%88%AC%EB%AA%85.png 2x" /></span>
+<div style="overflow-x: auto;"><span style="font-size: 1.5rem; font-weight: 700; line-height: 180%; word-break: keep-all;">오픈 소스와 함께하기</span><span style="font-size: 1rem; font-weight: 400; line-height: 195%; word-break: keep-all; margin-top: 0.25rem; display: block;">리브레 위키의 개발진이 개발하는 <a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:Liberty" title="리브레 위키:Liberty">Liberty</a> 스킨은 GitLab을 통해 <a href="/wiki/%EC%98%A4%ED%94%88_%EC%86%8C%EC%8A%A4" title="오픈 소스"><span style="word-break: keep-all;">오픈&#160;소스</span></a>로&#160;공개됩니다. <br />지속적인 발전을 거듭하는 <a href="https://www.mediawiki.org/wiki/Skin:Liberty" class="extiw" title="mediawikiwiki:Skin:Liberty">Liberty</a>는 누구나 GNU GPLv3 하에 무료로 사용하고 개발에 참여할 수&#160;있습니다. </span>
+</div>
+</div>
+<hr />
+<div class="message" style="font-size: 0.8rem; font-weight: 400; line-height: 190%; margin: 1rem auto; display: block; clear:none; text-align: center; opacity: 0.88;">
+<p><span style="word-break: keep-all;"><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9D%B8%ED%84%B0%EB%84%B7%EC%A0%95%EB%B3%B4%EC%82%AC%EC%9D%B4%ED%8A%B8_%EB%A6%AC%EB%B8%8C%EB%A0%88%EC%9C%84%ED%82%A4_%EC%82%AC%EC%97%85#.EC.95.A0.EB.93.9C.EB.B8.94.EB.A1.9D" title="리브레 위키:인터넷정보사이트 리브레위키 사업">광고 차단 기능의 해제</a>는 안정적인 운영에 도움이&#160;됩니다. </span>
+</p>
+</div>
+<table class="navbox collapsible autocollapse nowraplinks" style="clear: both;background: transparent;border: 1px solid #4188f1"><tbody><tr>
+    <th colspan="2" style="width: 100%; text-align: center;background: #4188f1; color: white;"><div style="float: left; text-align: left;"><span class="plainlinks plainlinksneverexpand tp_link" style="white-space: nowrap; font-weight: normal; font-size: 0.9em;"><a href="/wiki/%ED%8B%80:%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4" title="틀:리브레 위키">보기</a> <span style="font-size: 0.7em;">•</span> <a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://librewiki.net/index.php?title=%ED%8B%80:%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4&amp;action=edit">편집</a></span></div><div class="tp_link"><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4" title="리브레 위키">리브레 위키</a></div></th>
+   </tr><tr><th class="tp_link" style="width: 1%; white-space: nowrap; background: #F5F8FA; text-align: right;color:white; background:#4188f1;">안내 · 도구</th>
+    <td colspan="1" class="navbox-list hlist" style="text-align: left;"><div>
+<ul><li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EB%8F%84%EC%9B%80%EB%A7%90" title="리브레 위키:도움말">도움말</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%97%B0%EC%8A%B5%EC%9E%A5" title="리브레 위키:연습장">연습장</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%A0%80%EC%9E%91%EA%B6%8C_%EB%B3%B4%ED%98%B8_%EC%A0%95%EC%B1%85" title="리브레 위키:저작권 보호 정책">저작권 보호 정책</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%85%9C%ED%94%8C%EB%A6%BF" title="리브레 위키:템플릿">템플릿</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%8B%80" title="리브레 위키:틀">틀 목록</a></li></ul></div></td></tr><tr>
+<th class="tp_link" style="width: 1%; white-space: nowrap; background: #F5F8FA; text-align: right;color:white; background:#4188f1;">규정 · 운영</th><td colspan="1" style="text-align:left;background:#b7b7b721;" class="navbox-list hlist"><div>
+<ul><li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EA%B0%9C%EC%9D%B8_%EC%A0%95%EB%B3%B4_%EC%A0%95%EC%B1%85" title="리브레 위키:개인 정보 정책">개인 정보 정책</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95" title="리브레 위키:관리규정">관리규정</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EB%A9%B4%EC%B1%85_%EC%A1%B0%ED%95%AD" title="리브레 위키:면책 조항">면책 조항</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%84%A0%EA%B1%B0" title="리브레 위키:선거">선거</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9A%B4%EC%98%81%EC%A7%84_%EC%95%8C%EB%A6%BC%ED%8C%90" title="리브레 위키:운영진 알림판">운영진 알림판</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9A%B4%EC%98%81%EC%A7%84_%ED%99%9C%EB%8F%99%EB%B3%B4%EA%B3%A0" title="리브레 위키:운영진 활동보고">운영진 활동보고</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80" title="리브레 위키:이용약관">이용약관</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8" title="리브레 위키:편집지침">편집지침</a></li></ul></div></td>
+</tr><tr><th class="tp_link" style="width: 1%; white-space: nowrap; background: #F5F8FA; text-align: right;color:white; background:#4188f1;">요청 · 소통</th><td colspan="1" style="text-align:left;" class="navbox-list hlist"><div>
+<ul><li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EA%B6%8C%EB%A6%AC_%EB%B3%B4%ED%98%B8" title="리브레 위키:권리 보호">권리 보호</a></li>
+<li><a href="/wiki/%EB%A7%88%EB%8B%B9:%ED%98%84%EA%B4%80" title="마당:현관">마당</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9A%B4%EC%98%81%EC%A7%84_%EB%AC%B8%EC%A0%9C%EC%A0%9C%EA%B8%B0" title="리브레 위키:운영진 문제제기">운영진 문제제기</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9A%B4%EC%98%81%EC%A7%84_%EC%9A%94%EC%B2%AD" title="리브레 위키:운영진 요청">운영진 요청</a></li>
+<li><a href="//bbs.librewiki.net/wiki/" class="extiw" title="위키방:">위키방</a></li>
+<li><a href="https://bbs.librewiki.net/freeboard/" class="extiw" title="자유게시판:">자유게시판</a></li></ul></div></td>
+</tr><tr><th class="tp_link" style="width: 1%; white-space: nowrap; background: #F5F8FA; text-align: right;color:white; background:#4188f1;">당신의 도움이<br />필요해요!</th><td colspan="1" style="text-align:left;background:#b7b7b721;" class="navbox-list hlist"><div>
+<ul><li><a href="/wiki/%EB%B6%84%EB%A5%98:%EA%B9%A8%EC%A7%84_%ED%8C%8C%EC%9D%BC_%EB%A7%81%ED%81%AC%EA%B0%80_%ED%8F%AC%ED%95%A8%EB%90%9C_%EB%AC%B8%EC%84%9C" title="분류:깨진 파일 링크가 포함된 문서">깨진 사진이 포함된 문서</a></li>
+<li><a href="/wiki/%ED%8A%B9%EC%88%98:%EB%A7%89%EB%8B%A4%EB%A5%B8%EB%AC%B8%EC%84%9C" title="특수:막다른문서">막다른 문서</a></li>
+<li><a href="/wiki/%ED%8A%B9%EC%88%98:%EB%B6%84%EB%A5%98%EC%95%88%EB%90%9C%EB%AC%B8%EC%84%9C" title="특수:분류안된문서">분류되지 않은 문서</a></li>
+<li><a href="/wiki/%ED%8A%B9%EC%88%98:%EC%98%A4%EB%9E%98%EB%90%9C%EB%AC%B8%EC%84%9C" title="특수:오래된문서">오랫동안 편집되지 않은 문서</a></li>
+<li><a href="/wiki/%ED%8A%B9%EC%88%98:%EC%99%B8%ED%86%A8%EC%9D%B4%EB%AC%B8%EC%84%9C" title="특수:외톨이문서">외톨이 문서</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9D%B4%EB%9F%B0_%EB%AC%B8%EC%84%9C%EA%B0%80_%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4" title="리브레 위키:이런 문서가 필요하다">이런 문서가 필요하다</a></li>
+<li><a href="/wiki/%ED%8A%B9%EC%88%98:%EC%A7%A7%EC%9D%80%EB%AC%B8%EC%84%9C" title="특수:짧은문서">짧은 문서</a></li>
+<li><a href="/wiki/%ED%8A%B9%EC%88%98:%ED%95%84%EC%9A%94%ED%95%9C%EB%AC%B8%EC%84%9C" title="특수:필요한문서">필요한 문서</a></li></ul></div></td>
+</tr><tr><th class="tp_link" style="width: 1%; white-space: nowrap; background: #F5F8FA; text-align: right;color:white; background:#4188f1;">둘러보기</th><td colspan="1" style="text-align:left;" class="navbox-list hlist"><div>
+<ul><li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4/%EA%B3%A0%EC%A7%80_%EB%8B%AC%EC%84%B1" title="리브레 위키/고지 달성">고지달성</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EA%B3%B5%EC%9D%B8_%EC%BA%90%EB%A6%AD%ED%84%B0" title="리브레 위키:공인 캐릭터">공인 캐릭터</a> (<a href="/wiki/%EC%96%B4%EA%B7%B8%EB%A1%AD%ED%85%8C%EB%A6%AD%EC%8A%A4" class="mw-redirect" title="어그롭테릭스">어그롭테릭스</a> · 레브 · 리버티 · 리브룬)</li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EB%A7%88%EC%8A%A4%EC%BD%94%ED%8A%B8" title="리브레 위키:마스코트">마스코트</a> (<a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EB%A7%88%EC%8A%A4%EC%BD%94%ED%8A%B8/%EB%A6%AC%EB%B8%8C%EB%9D%BC" title="리브레 위키:마스코트/리브라">리브라</a> · <a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EB%A7%88%EC%8A%A4%EC%BD%94%ED%8A%B8/%EB%A6%AC%EB%94%94%EB%B2%84%EA%B7%B8" title="리브레 위키:마스코트/리디버그">리디버그</a>)</li>
+<li><a href="/wiki/%EC%8B%9C%EB%A6%AC%EC%A6%88:%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%8B%9C%EB%A6%AC%EC%A6%88" title="시리즈:리브레 시리즈">시리즈</a></li>
+<li><a href="/wiki/%EB%B6%84%EB%A5%98:%EB%B6%84%EB%A5%98" title="분류:분류">최상위 분류</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%B6%94%EC%B2%9C_%EB%AC%B8%EC%84%9C" title="리브레 위키:추천 문서">추천 문서</a></li>
+<li><a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%ED%86%B5%EA%B3%84" title="리브레 위키:통계">통계</a></li></ul></div></td>
+</tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20220514094252
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+CPU time usage: 0.205 seconds
+Real time usage: 0.298 seconds
+Preprocessor visited node count: 2308/1000000
+Post‐expand include size: 58127/2097152 bytes
+Template argument size: 34322/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4246/5000000 bytes
+Lua time usage: 0.012/2.000 seconds
+Lua memory usage: 789 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  103.972      1 -total
+ 59.86%   62.238      1 틀:현관/둘러보기
+ 22.41%   23.302    152 틀:현관/둘러보기/item
+ 19.89%   20.678      1 틀:리브레_위키
+ 18.08%   18.795      1 틀:둘러보기_상자
+ 13.18%   13.701      1 틀:둘러보기_상자/핵심
+  8.09%    8.411    152 틀:현관/둘러보기/imgbox
+  5.81%    6.037      1 틀:기념일_배너
+  4.16%    4.326      1 미디어위키:Sitenotice
+  2.18%    2.265      1 틀:색
+-->
+
+<!-- Saved in parser cache with key libre:pcache:idhash:5-0!canonical and timestamp 20220514094252 and revision id 1344122
+ -->
+</div></div>						</article>
+					</div>
+					<footer>
+						<div class="liberty-footer">
+														<div class="bottom-ads"></div>
+										<ul class="footer-info">
+									<li class="footer-info-lastmod">
+						 이 문서는 2021년 8월 17일 (화) 20:53에 마지막으로 편집되었습니다.					</li>
+									<li class="footer-info-copyright">
+						모든 텍스트는 <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0</a>에 따라 사용할 수 있습니다. <br/><br/> (위키내 정책 등의 문의는 <a href="https://librewiki.net/wiki/리브레_위키:운영진_요청">운영진 요청</a>을 이용바랍니다) <br/> 사이트 운영 관련 문의 : <a href="mailto:ops@librewiki.net">ops@librewiki.net</a> | 권리침해 문의 : <a href="mailto:support@librewiki.net">support@librewiki.net</a>					</li>
+							</ul>
+					<ul class="footer-places">
+									<li class="footer-places-privacy">
+						<a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8" class="mw-redirect" title="리브레 위키:개인정보처리방침">개인정보처리방침</a>					</li>
+									<li class="footer-places-about">
+						<a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%86%8C%EA%B0%9C" class="mw-redirect" title="리브레 위키:소개">리브레 위키 소개</a>					</li>
+									<li class="footer-places-disclaimer">
+						<a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EB%A9%B4%EC%B1%85_%EC%A1%B0%ED%95%AD" title="리브레 위키:면책 조항">면책 조항</a>					</li>
+									<li class="footer-places-termsofservice">
+						<a href="/wiki/%EB%A6%AC%EB%B8%8C%EB%A0%88_%EC%9C%84%ED%82%A4:%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80" title="리브레 위키:이용약관">이용약관</a>					</li>
+							</ul>
+					<ul class="footer-icons">
+									<li class="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank"><img src="https://image.librewiki.net/resources/assets/licenses/cc-by-sa.png" alt="크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0" width="88" height="31" loading="lazy"/></a>					</li>
+									<li class="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/" target="_blank"><img src="https://image.librewiki.net/resources/assets/poweredby_mediawiki_176x62.png" alt="Powered by MediaWiki" width="88" height="31" loading="lazy"/></a>					</li>
+								<li class="designedbylibre">
+					<a href="//librewiki.net">
+						<img src="//image.librewiki.net/resources/liberty/designedbylibre.png" style="height:31px" alt="Designed by Librewiki"> 
+					</a>
+				</li>
+			</ul>
+								</div>
+					</footer>
+					<div id="liberty-bottombtn">
+						<div class="scroll-button" id="liberty-scrollup"><i class="fas fa-angle-up"></i></div>
+						<div class="scroll-button" id="liberty-scrolldown"><i class="fas fa-angle-down"></i></div>
+					</div>
+				</div>
+			</div>
+		</section>
+				<div class="modal fade login-modal" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="login-modalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-sm" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+						<h4 class="modal-title">로그인</h4>
+					</div>
+					<div class="modal-body">
+						<div id="modal-login-alert" class="alert alert-hidden alert-danger" role="alert">
+						</div>
+						<form id="modal-loginform" name="userlogin" class="modal-loginform" method="post">
+							<input class="loginText form-control" id="wpName1" tabindex="1" placeholder="사용자 이름을 입력하세요" value="" name="lgname">
+							<label for="inputPassword" class="sr-only">비밀번호</label>
+							<input class="loginPassword form-control" id="wpPassword1" tabindex="2" placeholder="비밀번호를 입력하세요" type="password" name="lgpassword">
+							<div class="modal-checkbox">
+								<input name="lgremember" type="checkbox" value="1" id="lgremember" tabindex="3">
+								<label for="lgremember">로그인 상태를 유지하기</label>
+							</div>
+							<input class="btn btn-success btn-block" type="submit" value="로그인" tabindex="4">
+							<a href="/index.php?title=%ED%8A%B9%EC%88%98:%EB%A1%9C%EA%B7%B8%EC%9D%B8&amp;type=signup&amp;returnto=%EB%A6%AC%EB%B8%8C%EB%A0%88+%EC%9C%84%ED%82%A4%3A%ED%98%84%EA%B4%80" class="btn btn-primary btn-block" title="특수:로그인" tabindex="5" type="submit">리브레 위키에 가입하세요</a>							<a href="/wiki/%ED%8A%B9%EC%88%98:%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EC%9E%AC%EC%84%A4%EC%A0%95" title="특수:비밀번호재설정">비밀번호를 잊으셨나요?</a>							<br>
+							<a href="/wiki/%ED%8A%B9%EC%88%98:%EB%A1%9C%EA%B7%B8%EC%9D%B8" title="특수:로그인">다른 방법으로 로그인하기</a>							<input type="hidden" name="action" value="login" />
+							<input type="hidden" name="format" value="json" />
+						</form>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-secondary" data-dismiss="modal">⧼liberty-btn-close⧽</button>
+						<button type="button" class="btn btn-primary">⧼liberty-btn-save-changes⧽</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.205","walltime":"0.298","ppvisitednodes":{"value":2308,"limit":1000000},"postexpandincludesize":{"value":58127,"limit":2097152},"templateargumentsize":{"value":34322,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4246,"limit":5000000},"timingprofile":["100.00%  103.972      1 -total"," 59.86%   62.238      1 틀:현관/둘러보기"," 22.41%   23.302    152 틀:현관/둘러보기/item"," 19.89%   20.678      1 틀:리브레_위키"," 18.08%   18.795      1 틀:둘러보기_상자"," 13.18%   13.701      1 틀:둘러보기_상자/핵심","  8.09%    8.411    152 틀:현관/둘러보기/imgbox","  5.81%    6.037      1 틀:기념일_배너","  4.16%    4.326      1 미디어위키:Sitenotice","  2.18%    2.265      1 틀:색"]},"scribunto":{"limitreport-timeusage":{"value":"0.012","limit":"2.000"},"limitreport-memusage":{"value":808203,"limit":52428800}},"cachereport":{"timestamp":"20220514094252","ttl":3600,"transientcontent":true}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71629362-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61});});</script></body></html>

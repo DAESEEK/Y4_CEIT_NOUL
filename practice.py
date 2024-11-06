@@ -1,0 +1,12 @@
+print(5)
+print(3.14)
+print(5+3.4)
+print(3*(3+1))
+print('boolon')
+print("cat")
+print("cat "*9)
+
+print(5>10)
+print(5<10)
+print(not True)
+print(not (5>10))

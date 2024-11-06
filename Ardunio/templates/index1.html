@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LED Control</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+        }
+        .led-control {
+            margin: 20px 0;
+        }
+        button {
+            width: 100px;
+            height: 50px;
+            font-size: 16px;
+            font-weight: bold;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            margin: 5px;
+            cursor: pointer;
+        }
+        .red-button {
+            background-color: #ff4c4c;
+        }
+        .yellow-button {
+            background-color: #ffd700;
+            color: #333;
+        }
+        .green-button {
+            background-color: #32cd32;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>LED Control</h1>
+
+        <div class="led-control">
+            <h2>Red LED</h2>
+            <button class="red-button" onclick="controlLED('red', 'on')">Red ON</button>
+            <button class="red-button" onclick="controlLED('red', 'off')">Red OFF</button>
+        </div>
+
+        <div class="led-control">
+            <h2>Yellow LED</h2>
+            <button class="yellow-button" onclick="controlLED('yellow', 'on')">Yellow ON</button>
+            <button class="yellow-button" onclick="controlLED('yellow', 'off')">Yellow OFF</button>
+        </div>
+
+        <div class="led-control">
+            <h2>Green LED</h2>
+            <button class="green-button" onclick="controlLED('green', 'on')">Green ON</button>
+            <button class="green-button" onclick="controlLED('green', 'off')">Green OFF</button>
+        </div>
+    </div>
+
+    <script>
+        function controlLED(color, action) {
+            fetch('/led', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                },
+                body: `color=${color}&action=${action}`
+            }).then(response => {
+                if (response.ok) {
+                    console.log(`${color} LED ${action} command sent`);
+                } else {
+                    console.log("Failed to send command");
+                }
+            });
+        }
+    </script>
+</body>
+</html>

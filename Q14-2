@@ -1,0 +1,29 @@
+def print_all_friends(g, start):
+    qu = [] #처리해야 할 사람들 저장
+    done = set() #이미 큐에 추가한 사람들을 집합에 기록(중복방지)
+
+    qu.append(start)
+    done.add(start)
+
+    while qu: #큐에 처리할 사람이 남아있는 동안에 
+        p = qu.pop(0)
+        print(p)
+        for x in g[p]: #그의 친구들 중에
+            if x not in done: #아직 큐에 추가된적 없는 사람을
+                qu.append(x)
+                done.add(x)
+
+fr_info = {
+    'Summer': ['John', 'Justin', 'Mike'],
+    'John': ['Summer', 'Justin'],
+    'Justin': ['John', 'Summer', 'Mike', 'May'],
+    'Mike': ['Summer', 'Justin'],
+    'May': ['Justin', 'Kim'],
+    'Kim': ['May'],
+    'Tom': ['Jerry'],
+    'Jerry': ['Tom']
+}
+
+print_all_friends(fr_info, 'Summer')
+print()
+print_all_friends(fr_info, 'Jerry')

@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>Department of Korean Language &#8211; Lao-Korean College</title>
+<!-- Mangboard SEO Start -->
+<link rel="canonical" href="http://lkclaos.org/department-of-korean-language/"/>
+<meta property="og:url" content="http://lkclaos.org/department-of-korean-language/"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Department of Korean Language"/>
+<meta name="title" content="Department of Korean Language"/>
+<meta name="twitter:title" content="Department of Korean Language"/>
+<meta property="og:description" content="Department of Korean Language Department Overview Currently, Korean courses are necessary to do business with Koreans in Laos, to study abroad, to gain work opportunities in Korea, and to marry Korean"/>
+<meta property="description" content="Department of Korean Language Department Overview Currently, Korean courses are necessary to do business with Koreans in Laos, to study abroad, to gain work opportunities in Korea, and to marry Korean"/>
+<meta name="description" content="Department of Korean Language Department Overview Currently, Korean courses are necessary to do business with Koreans in Laos, to study abroad, to gain work opportunities in Korea, and to marry Korean"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Department of Korean Language Department Overview Currently, Korean courses are necessary to do business with Koreans in Laos, to study abroad, to gain work opportunities in Korea, and to marry Korean"/>
+<meta property="article:published_time" content="2018-01-09T04:47:15+00:00"/>
+<meta property="article:modified_time" content="2020-01-13T02:56:36+00:00"/>
+<meta property="og:updated_time" content="2020-01-13T02:56:36+00:00"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:site_name" content="Lao-Korean College"/>
+<!-- Mangboard SEO End -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="Lao-Korean College &raquo; Feed" href="http://lkclaos.org/en/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Lao-Korean College &raquo; Comments Feed" href="http://lkclaos.org/en/comments/feed/"/>
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.9.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+<!-- No UA code set -->
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/lkclaos.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script>
+		<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link rel='stylesheet' id='plugins-widgets-latest-mb-basic-css-style-css' href='http://lkclaos.org/wp-content/plugins/mangboard/plugins/widgets/latest_mb_basic/css/style.css?ver=4.9.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='assets-css-jcarousel-swipe-css' href='http://lkclaos.org/wp-content/plugins/mangboard/assets/css/jcarousel.swipe.css?ver=4.9.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='assets-css-style-css' href='http://lkclaos.org/wp-content/plugins/mangboard/assets/css/style.css?ver=4.9.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='assets-css-bootstrap3-grid-css' href='http://lkclaos.org/wp-content/plugins/mangboard/assets/css/bootstrap3-grid.css?ver=4.9.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='lao_fonts-css' href='http://lkclaos.org/wp-content/plugins/lao-fonts/phetsarath/style.css?ver=4.9.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='plugins-popup-css-style-css' href='http://lkclaos.org/wp-content/plugins/mangboard/plugins/popup/css/style.css?ver=4.9.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='trusted-fonts-css' href='//fonts.googleapis.com/css?family=Ubuntu%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%7CHind%3A300%2C400%2C500%2C600%2C700%7CUbuntu%3A300%2C400%2C500%2C700%7COpen+Sans%3A300%2C400%2C600%2C700%2C800%7CMerriweather+Sans%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C800%2C800italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all'/>
+<link rel='stylesheet' id='animate-css' href='http://lkclaos.org/wp-content/themes/trusted/css/animate.css?ver=1.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='font-awesome-css' href='http://lkclaos.org/wp-content/themes/trusted/css/font-awesome.css?ver=4.7.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='trusted-style-css' href='http://lkclaos.org/wp-content/themes/trusted/style.css?ver=4.9.3' type='text/css' media='all'/>
+<style id='trusted-style-inline-css' type='text/css'>.main-title,.main-excerpt,.taxonomy-description,.featured-post-wrap,.term-description,.page-description,.blog article,.archive article,.search article,.archive li.product{visibility:hidden}.featured-post-wrap.reveal{visibility:visible}.post-type-archive-product li.product-category,.term-description,.page-description{visibility:hidden;-webkit-animation-name:fadeInUp;animation-name:fadeInUp}#secondary aside{visibility:hidden;-webkit-animation-name:fadeInRight;animation-name:fadeInRight}.entry-content h1:before,.entry-content h2:before,.entry-content h3:before,.entry-content h4:before,.entry-content h5:before,.entry-content h6:before,.entry-content h1:after,.entry-content h2:after,.entry-content h3:after,.entry-content h4:after,.entry-content h5:after,.entry-content h6:after{display:none}h1,h2,h3,h4,h5,h6,.page .woocommerce-tabs ul.tabs li a,.woocommerce div.product .woocommerce-tabs ul.tabs li a{font-family:'Merriweather Sans',Helvetica,Arial,Verdana,sans-serif}.main-header{background-color:#fff}.main-header{background-image:url(http://35.197.147.51/wp-content/uploads/2020/01/cropped-Open-first-picture.png)}.site-title a{color:#0a0a0a}.entry-content h1:before,.entry-content h2:before,.entry-content h3:before,.entry-content h4:before,.entry-content h5:before,.entry-content h6:before,.entry-header .entry-title:before,#secondary .widget .widget-title:before,h3#reply-title:before,h3.comments-title:before,.woocommerce h2:before,.woocommerce div.product .woocommerce-tabs ul.tabs li.active:after{background-color:#00c5db}button,input[type="button"],input[type="reset"],input[type="submit"],.entry-meta span .fa,.entry-footer span .fa,.comment-navigation .nav-previous a,.comment-navigation .nav-next a,#top-bar a.button,#top-bar button,#top-bar input[type="button"],#top-bar input[type="reset"],#top-bar input[type="submit"],.top-cart:hover .item-count,.top-login-dropdown #respond input#submit,.top-login-dropdown a.button,.top-login-dropdown button.button,.top-login-dropdown input.button,.top-login-mini-cart #respond input#submit,.top-login-mini-cart a.button,.top-login-mini-cart button.button,.top-login-mini-cart input.button,.featured-post:hover .featured-icon,#cta-section a:hover .cta-icon .fa,#cta-section a.button,#footer-menu a[href*="codepen.io"]:hover:before,#footer-menu a[href*="digg.com"]:hover:before,#footer-menu a[href*="dribbble.com"]:hover:before,#footer-menu a[href*="dropbox.com"]:hover:before,#footer-menu a[href*="facebook.com"]:hover:before,#footer-menu a[href*="flickr.com"]:hover:before,#footer-menu a[href*="foursquare.com"]:hover:before,#footer-menu a[href*="plus.google.com"]:hover:before,#footer-menu a[href*="github.com"]:hover:before,#footer-menu a[href*="instagram.com"]:hover:before,#footer-menu a[href*="linkedin.com"]:hover:before,#footer-menu a[href*="pinterest.com"]:hover:before,#footer-menu a[href*="getpocket.com"]:hover:before,#footer-menu a[href*="reddit.com"]:hover:before,#footer-menu a[href*="skype.com"]:hover:before,#footer-menu a[href*="stumbleupon.com"]:hover:before,#footer-menu a[href*="tumblr.com"]:hover:before,#footer-menu a[href*="twitter.com"]:hover:before,#footer-menu a[href*="vimeo.com"]:hover:before,#footer-menu a[href*="wordpress.com"]:hover:before,#footer-menu a[href*="wordpress.org"]:hover:before,#footer-menu a[href*="youtube.com"]:hover:before,#footer-menu a[href^="mailto:"]:hover:before,#footer-menu a[href*="spotify.com"]:hover:before,#footer-menu a[href*="twitch.tv"]:hover:before,#footer-menu a[href$="/feed/"]:hover:before,.woocommerce ul.products li.product .button.add_to_cart_button,.woocommerce ul.products li.product .button,.woocommerce a.added_to_cart,.woocommerce div.product div.images .woocommerce-product-gallery__trigger,.woocommerce ul.products li.product .price,.woocommerce ul.products li.product .price:before,.woocommerce div.product p.price,.woocommerce div.product p.price:before,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce #respond input#submit.alt.disabled,.woocommerce #respond input#submit.alt.disabled:hover,.woocommerce #respond input#submit.alt:disabled,.woocommerce #respond input#submit.alt:disabled:hover,.woocommerce #respond input#submit.alt:disabled[disabled],.woocommerce #respond input#submit.alt:disabled[disabled]:hover,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt:disabled[disabled]:hover,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.page .woocommerce-tabs ul.tabs li:before,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle{background:#00c5db}a,a:hover,a:focus,a:active,.single-entry-content a,.widget-area a:hover,.comment-list a:hover,#top-bar a:hover,#top-bar .fa,#site-description,.top-tel .fa,.top-login-dropdown .top-login-register:before,#primary-menu li a:hover,#primary-menu li.current-menu-item a,#primary-menu ul li a:hover,#cta-section .cta-icon .fa,.pagination a:hover,.pagination .current,article.post.sticky .entry-header .entry-title:after,.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce nav.woocommerce-pagination ul li a:focus,.woocommerce nav.woocommerce-pagination ul li a:hover,.woocommerce nav.woocommerce-pagination ul li span.current,.woocommerce .woocommerce-message:before,.woocommerce .woocommerce-info:before,#masthead.light #top-bar a,#masthead.light #top-bar .fa:hover,#masthead.light #primary-menu li a:hover{color:#00c5db}#cta-section a:hover .cta-tel-before,#cta-section a:hover .cta-tel-after,.comment-navigation .nav-next a:after,.comment-navigation .nav-previous a:after,.featured-post,.pagination a:hover,.pagination .current,.woocommerce nav.woocommerce-pagination ul li a:focus,.woocommerce nav.woocommerce-pagination ul li a:hover,.woocommerce nav.woocommerce-pagination ul li span.current,.woocommerce div.product div.images .flex-control-thumbs li img.flex-active,.woocommerce div.product div.images .flex-control-thumbs li img:hover{border-color:#00c5db}#footer-menu a[href*="codepen.io"]:before,#footer-menu a[href*="digg.com"]:before,#footer-menu a[href*="dribbble.com"]:before,#footer-menu a[href*="dropbox.com"]:before,#footer-menu a[href*="facebook.com"]:before,#footer-menu a[href*="flickr.com"]:before,#footer-menu a[href*="foursquare.com"]:before,#footer-menu a[href*="plus.google.com"]:before,#footer-menu a[href*="github.com"]:before,#footer-menu a[href*="instagram.com"]:before,#footer-menu a[href*="linkedin.com"]:before,#footer-menu a[href*="pinterest.com"]:before,#footer-menu a[href*="getpocket.com"]:before,#footer-menu a[href*="reddit.com"]:before,#footer-menu a[href*="skype.com"]:before,#footer-menu a[href*="stumbleupon.com"]:before,#footer-menu a[href*="tumblr.com"]:before,#footer-menu a[href*="twitter.com"]:before,#footer-menu a[href*="vimeo.com"]:before,#footer-menu a[href*="wordpress.com"]:before,#footer-menu a[href*="wordpress.org"]:before,#footer-menu a[href*="youtube.com"]:before,#footer-menu a[href^="mailto:"]:before,#footer-menu a[href*="spotify.com"]:before,#footer-menu a[href*="twitch.tv"]:before,#footer-menu a[href$="/feed/"]:before{box-shadow:inset 0 0 0 #00c5db}#footer-menu a[href*="codepen.io"]:hover:before,#footer-menu a[href*="digg.com"]:hover:before,#footer-menu a[href*="dribbble.com"]:hover:before,#footer-menu a[href*="dropbox.com"]:hover:before,#footer-menu a[href*="facebook.com"]:hover:before,#footer-menu a[href*="flickr.com"]:hover:before,#footer-menu a[href*="foursquare.com"]:hover:before,#footer-menu a[href*="plus.google.com"]:hover:before,#footer-menu a[href*="github.com"]:hover:before,#footer-menu a[href*="instagram.com"]:hover:before,#footer-menu a[href*="linkedin.com"]:hover:before,#footer-menu a[href*="pinterest.com"]:hover:before,#footer-menu a[href*="getpocket.com"]:hover:before,#footer-menu a[href*="reddit.com"]:hover:before,#footer-menu a[href*="skype.com"]:hover:before,#footer-menu a[href*="stumbleupon.com"]:hover:before,#footer-menu a[href*="tumblr.com"]:hover:before,#footer-menu a[href*="twitter.com"]:hover:before,#footer-menu a[href*="vimeo.com"]:hover:before,#footer-menu a[href*="wordpress.com"]:hover:before,#footer-menu a[href*="wordpress.org"]:hover:before,#footer-menu a[href*="youtube.com"]:hover:before,#footer-menu a[href^="mailto:"]:hover:before,#footer-menu a[href*="spotify.com"]:hover:before,#footer-menu a[href*="twitch.tv"]:hover:before,#footer-menu a[href$="/feed/"]:hover:before{box-shadow:inset 0 -40px 0 #00c5db}.main-title{background:rgba(0,197,219,.8)}.featured-post:hover .featured-icon,#cta-section a:hover .cta-icon .fa{box-shadow:0px 0px 0px 4px rgba(0,197,219,.45)}.breadcrumbs .trail-items{background:rgba(0,197,219,.7)}.trusted-modal,.top-login-dropdown,.top-login-mini-cart{background-color:#4b9664}#masthead,#top-bar ul>li>ul,#primary-menu ul,.featured-post .featured-icon,#colophon,.woocommerce div.product form.variations_form.cart,.woocommerce div.product p.variations_form.cart,#masthead.light .top-tel .mobile-clear:hover .fa,#masthead.light .top-login:hover .fa,#masthead.light .top-cart:hover .fa{background:#4b9664}@media screen and (max-width:1024px){#primary-menu,.site-navigation.centered #primary-menu{background:#4b9664}}.header-title .fa,.top-cart .item-count,#footer-menu a:before,#footer-menu a[href*="codepen.io"]:hover:before,#footer-menu a[href*="digg.com"]:hover:before,#footer-menu a[href*="dribbble.com"]:hover:before,#footer-menu a[href*="dropbox.com"]:hover:before,#footer-menu a[href*="facebook.com"]:hover:before,#footer-menu a[href*="flickr.com"]:hover:before,#footer-menu a[href*="foursquare.com"]:hover:before,#footer-menu a[href*="plus.google.com"]:hover:before,#footer-menu a[href*="github.com"]:hover:before,#footer-menu a[href*="instagram.com"]:hover:before,#footer-menu a[href*="linkedin.com"]:hover:before,#footer-menu a[href*="pinterest.com"]:hover:before,#footer-menu a[href*="getpocket.com"]:hover:before,#footer-menu a[href*="reddit.com"]:hover:before,#footer-menu a[href*="skype.com"]:hover:before,#footer-menu a[href*="stumbleupon.com"]:hover:before,#footer-menu a[href*="tumblr.com"]:hover:before,#footer-menu a[href*="twitter.com"]:hover:before,#footer-menu a[href*="vimeo.com"]:hover:before,#footer-menu a[href*="wordpress.com"]:hover:before,#footer-menu a[href*="wordpress.org"]:hover:before,#footer-menu a[href*="youtube.com"]:hover:before,#footer-menu a[href^="mailto:"]:hover:before,#footer-menu a[href*="spotify.com"]:hover:before,#footer-menu a[href*="twitch.tv"]:hover:before,#footer-menu a[href$="/feed/"]:hover:before{color:#4b9664}.main-excerpt p,.taxonomy-description p,.term-description p,.page-description p{text-shadow:0 1px 0 #4b9664}.main-excerpt p,.taxonomy-description p,.term-description p,.page-description p{background:rgba(75,150,100,.8)}#cta-section{background-color:rgba(75,150,100,.8)}.featured-post .featured-icon{box-shadow:0px 0px 0px 4px rgba(75,150,100,.45)}.site-title a{text-transform:uppercase}#primary-menu a{text-transform:uppercase}</style>
+<script type="text/javascript">var mb_options=[];var mb_languages=[];var mb_categorys=["","",""];var mb_is_login=false;var mb_hybrid_app="";if(typeof(mb_urls)==="undefined"){var mb_urls=[];};mb_options["device_type"]="desktop";mb_options["nonce"]="mb_nonce_value=8b7a5e8c14930660886491d599d18a8e&mb_nonce_time=1652269778&wp_nonce_value=1203896a05";mb_options["page"]="";mb_languages["btn_ok"]="Ok";mb_languages["btn_cancel"]="Cancel";mb_urls["ajax_url"]="http://lkclaos.org/wp-admin/admin-ajax.php";mb_urls["home"]="http://lkclaos.org";mb_urls["slug"]="department-of-korean-language";mb_urls["login"]="http://lkclaos.org/wp-login.php?redirect_to=http%253A%252F%252Flkclaos.org%252Fdepartment-of-korean-language%252F";mb_urls["plugin"]="http://lkclaos.org/wp-content/plugins/mangboard/";</script><script type="text/javascript">var shareData={"url":"","title":"","image":"","content":""};shareData["url"]="http://lkclaos.org/department-of-korean-language/";shareData["title"]="Department of Korean Language";shareData["image"]="";shareData["content"]="Department of Korean Language Department Overview Currently, Korean courses are necessary to do business with Koreans in Laos, to study abroad, to gain work opportunities in Korea, and to marry Korean";</script><style type="text/css">.mb-hide-logout{display:none!important}</style><script type='text/javascript' src='http://lkclaos.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/plugins/mangboard/assets/js/jquery.jcarousel.min.js?ver=1.8.2'></script>
+<script type='text/javascript'>//<![CDATA[
+var mb_ajax_object={"ajax_url":"http:\/\/lkclaos.org\/wp-admin\/admin-ajax.php","admin_page":"false"};
+//]]></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/plugins/mangboard/assets/js/common.js?ver=1.8.2'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/plugins/mangboard/assets/js/jcarousel.swipe.js?ver=1.8.2'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/plugins/mangboard/assets/js/jquery.touchSwipe.min.js?ver=1.8.2'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/plugins/mangboard/assets/js/json2.js?ver=1.8.2'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/plugins/mangboard/assets/js/jquery.number.min.js?ver=1.8.2'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/plugins/mangboard/assets/js/jquery.tipTip.min.js?ver=1.8.2'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/plugins/mangboard/plugins/popup/js/main.js?ver=1.8.2'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/plugins/mangboard/plugins/datepicker/js/datepicker.js?ver=1.8.2'></script>
+<link rel='https://api.w.org/' href='http://lkclaos.org/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lkclaos.org/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lkclaos.org/wp-includes/wlwmanifest.xml"/> 
+<meta name="generator" content="WordPress 4.9.3"/>
+<link rel="canonical" href="http://lkclaos.org/department-of-korean-language/"/>
+<link rel='shortlink' href='http://lkclaos.org/?p=99'/>
+<link rel="alternate" type="application/json+oembed" href="http://lkclaos.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flkclaos.org%2Fdepartment-of-korean-language%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://lkclaos.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flkclaos.org%2Fdepartment-of-korean-language%2F&#038;format=xml"/>
+<style type="text/css" id="custom-background-css">body.custom-background{background-color:#d6d6d6}</style>
+<link rel="alternate" href="http://lkclaos.org/%e0%ba%9e%e0%ba%b2%e0%ba%81%e0%ba%a7%e0%ba%b4%e0%ba%8a%e0%ba%b2%e0%ba%9e%e0%ba%b2%e0%ba%aa%e0%ba%b2%e0%bb%80%e0%ba%81%e0%ba%bb%e0%ba%b2%e0%ba%ab%e0%ba%bc%e0%ba%b5/" hreflang="lo"/>
+<link rel="alternate" href="http://lkclaos.org/department-of-korean-language/" hreflang="en"/>
+<link rel="icon" href="http://lkclaos.org/wp-content/uploads/2017/12/cropped-22366636_1472759942812325_7538341131695760618_n-32x32.jpg" sizes="32x32"/>
+<link rel="icon" href="http://lkclaos.org/wp-content/uploads/2017/12/cropped-22366636_1472759942812325_7538341131695760618_n-192x192.jpg" sizes="192x192"/>
+<link rel="apple-touch-icon-precomposed" href="http://lkclaos.org/wp-content/uploads/2017/12/cropped-22366636_1472759942812325_7538341131695760618_n-180x180.jpg"/>
+<meta name="msapplication-TileImage" content="http://lkclaos.org/wp-content/uploads/2017/12/cropped-22366636_1472759942812325_7538341131695760618_n-270x270.jpg"/>
+		<style type="text/css" id="wp-custom-css">#bitnami-banner{display:none}</style>
+	</head>
+
+<body class="page-template-default page page-id-99 custom-background wp-custom-logo">
+<div id="page">
+			<header id="masthead" class="site-header light">
+
+				<div id="top-bar">
+			<div class="container">
+							</div>
+		</div>
+		
+		<div class="container clearfix">
+
+			<div id="site-branding">
+				<a href="http://lkclaos.org/%eb%9d%bc%ec%98%a4%ec%bd%94%eb%a6%ac%ec%95%88-%ec%bb%ac%eb%a6%ac%ec%a7%80%ec%9d%98-%ec%9b%b9%ed%8e%98%ec%9d%b4%ec%a7%80%ec%97%90-%ec%98%a4%ec%8b%a0-%ea%b2%83%ec%9d%84-%ed%99%98%ec%98%81%ed%95%a9/" class="custom-logo-link" rel="home" itemprop="url"><img width="510" height="162" src="http://lkclaos.org/wp-content/uploads/2018/02/cropped-test2.png" class="custom-logo" alt="Lao-Korean College" itemprop="logo" srcset="http://lkclaos.org/wp-content/uploads/2018/02/cropped-test2.png 510w, http://lkclaos.org/wp-content/uploads/2018/02/cropped-test2-300x95.png 300w" sizes="(max-width: 510px) 100vw, 510px"/></a>			</div><!-- #site-branding -->
+
+			<!--<div id="top-info">-->
+									<div id="site-description" class="site-description">ວິທະຍາໄລທີ່ໃຫ້ການບໍລິການແກ່ຄົນຍຸກໃໝ່ ແລະ ຊຸ່ມຊົນທີ່ຫ່າງໄກສອກຫຼີກ</div>
+
+					<div id="top-info">
+						<div class="top-tel">
+							<div class="mobile-clear">
+								<a href="tel:021-671-080"><i class="fa fa-phone"></i>021-671-080</a>
+							</div>
+						</div>
+					</div>
+								<!--</div>-->
+
+	        <a href="#x" class="trusted-overlay" id="search"></a>
+	        <div class="trusted-modal">
+	            <div class="close-this"><a class="fa fa-close" href="#close"></a></div>
+				<form role="search" method="get" class="search-form" action="http://lkclaos.org/en/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s"/>
+				</label>
+				<input type="submit" class="search-submit" value="Search"/>
+			</form>	        </div>
+
+					</div>
+
+			<div class="site-navigation centered" role="navigation">
+				<div class="container">
+				<a class="toggle-nav" href="javascript:void(0);"><span></span></a>
+				<div class="menu-main-menu-in-english-container"><ul id="primary-menu" class="clearfix"><li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-599"><a href="http://lkclaos.org/introductions/">Introductions</a>
+<ul class="sub-menu">
+	<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="http://lkclaos.org/the-presidents-greetings/">The president&#8217;s greetings</a></li>
+	<li id="menu-item-608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-608"><a href="http://lkclaos.org/educational-objective-and-philosophy/">Educational Objective and Philosophy</a></li>
+	<li id="menu-item-610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-610"><a href="http://lkclaos.org/history/">History</a></li>
+	<li id="menu-item-617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-617"><a href="http://lkclaos.org/seven-characteristics-of-lkc/">Seven Characteristics of LKC</a></li>
+	<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="http://lkclaos.org/organization/">Organization</a></li>
+	<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="http://lkclaos.org/location/">Location</a></li>
+</ul>
+</li>
+<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-627"><a href="http://lkclaos.org/department/">Department Introduction</a>
+<ul class="sub-menu">
+	<li id="menu-item-606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-606"><a href="http://lkclaos.org/department-of-english/">Department of English</a></li>
+	<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="http://lkclaos.org/department-of-computer-science/">Department of Computer Science</a></li>
+	<li id="menu-item-607" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-99 current_page_item menu-item-607"><a href="http://lkclaos.org/department-of-korean-language/">Department of Korean Language</a></li>
+	<li id="menu-item-602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-602"><a href="http://lkclaos.org/accounting-department/">Department of Accounting</a></li>
+	<li id="menu-item-603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-603"><a href="http://lkclaos.org/beauty-department/">Department of Beauty Design</a></li>
+	<li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-605"><a href="http://lkclaos.org/electrical-engineering-department/">Department of Electrical Engineering</a></li>
+</ul>
+</li>
+<li id="menu-item-952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-952"><a href="http://lkclaos.org/student-wellfare/">Student Welfare</a>
+<ul class="sub-menu">
+	<li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-626"><a href="http://lkclaos.org/scholarship-system/">Scholarship System</a></li>
+	<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="http://lkclaos.org/benefits-of-tuition-reduction/">Tuition reduction</a></li>
+	<li id="menu-item-618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-618"><a href="http://lkclaos.org/special-tour-experience-implementation-of-the-korean-cultural-system-for-graduates/">Special tour experience</a></li>
+</ul>
+</li>
+<li id="menu-item-634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-634"><a href="http://lkclaos.org/admission-guidance-2/">Admission Guidance</a>
+<ul class="sub-menu">
+	<li id="menu-item-2133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2133"><a href="http://lkclaos.org/online-registration/">Online Registration</a></li>
+</ul>
+</li>
+<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-632"><a href="http://lkclaos.org/affiliated-institute/">Affiliated Institute</a>
+<ul class="sub-menu">
+	<li id="menu-item-609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609"><a href="http://lkclaos.org/english-academy/">English Academy</a></li>
+	<li id="menu-item-639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-639"><a href="http://lkclaos.org/cpd-center/">CPD Center</a></li>
+</ul>
+</li>
+<li id="menu-item-759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-759"><a href="http://lkclaos.org/overseas-cooperation-agency/">Overseas cooperation agency</a></li>
+<li id="menu-item-1065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1065"><a href="http://lkclaos.org/college-event/">College Event</a></li>
+<li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="http://lkclaos.org/invited-professors/">Invited Professors</a></li>
+<li id="menu-item-755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-755"><a href="http://lkclaos.org/board/">Board</a>
+<ul class="sub-menu">
+	<li id="menu-item-601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-601"><a href="http://lkclaos.org/notice-board/">Notice board</a></li>
+	<li id="menu-item-616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-616"><a href="http://lkclaos.org/qa-board/">Q&#038;A board</a></li>
+	<li id="menu-item-1537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a href="http://lkclaos.org/free-bullentin-board/">Free Bullentin Board</a></li>
+</ul>
+</li>
+<li id="menu-item-622-lo" class="lang-item lang-item-42 lang-item-lo lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-622-lo"><a href="http://lkclaos.org/%e0%ba%9e%e0%ba%b2%e0%ba%81%e0%ba%a7%e0%ba%b4%e0%ba%8a%e0%ba%b2%e0%ba%9e%e0%ba%b2%e0%ba%aa%e0%ba%b2%e0%bb%80%e0%ba%81%e0%ba%bb%e0%ba%b2%e0%ba%ab%e0%ba%bc%e0%ba%b5/" hreflang="lo" lang="lo"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHFSURBVHjaYvzLgAL+gREDEvkPlQ0QgMc4tgEABmEgCCJbsxWzpTM2oYr0Ov3Z88x1JJOcjKaxo3s24GvArXoCiKWA2T9Y1OzTy/f///77B0J/f/38++f3379//v7/+4fh77+/f/4A0Z/ff/glhOoZNgEEADEAzv8EkyJwHRIj5/35/P7//f0A+fr9Ew8EWUYV////n7Ln3eb4AQAA+vz9+/z+GxQH3QCRAoiJ4c+/338Zfv1j/P2X8ceff4xMjOXxMtrKXEBUmSjHxsb05df/n38YQegfSC9AADEB1f79z/DvD8gNv3/+FeBh4uVi/g8GgnzM4gLMv77/BroHhIAOYPgDEEAgG/7+/ffrH8Ovv/9//2N48fb3p69/IBrefPz98MXPPwwMP//8/wUMgt//gRoAAogF6ECg937/BtoBCqf33/9UTnuY4icGDLfJq5+9/PCHiRGoBOh1oENAAQsQQIy+DPYp9Znvnrz+Cw4ZoNW/fkDc8Pfv739M/0GCYIl/wnKiBRtqAAKIZQXDQdZHygxA+0CB/RdoMcO/3//+/f7/H+gwcPADEdDRQA/c+evJwAAQQIyfMSL1DxIbIvUHKe4BAgwAnbhCepZmuD8AAAAASUVORK5CYII=" title="ພາສາລາວ" alt="ພາສາລາວ" width="16" height="11"/><span style="margin-left:0.3em;">ພາສາລາວ</span></a></li>
+<li id="menu-item-622-en" class="lang-item lang-item-3 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-622-en"><a href="http://lkclaos.org/department-of-korean-language/" hreflang="en-US" lang="en-US"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHzSURBVHjaYkxOP8IAB//+Mfz7w8Dwi4HhP5CcJb/n/7evb16/APL/gRFQDiAAw3JuAgAIBEDQ/iswEERjGzBQLEru97ll0g0+3HvqMn1SpqlqGsZMsZsIe0SICA5gt5a/AGIEarCPtFh+6N/ffwxA9OvP/7//QYwff/6fZahmePeB4dNHhi+fGb59Y4zyvHHmCEAAAW3YDzQYaJJ93a+vX79aVf58//69fvEPlpIfnz59+vDhw7t37968efP3b/SXL59OnjwIEEAsDP+YgY53b2b89++/awvLn98MDi2cVxl+/vl6mituCtBghi9f/v/48e/XL86krj9XzwEEEENy8g6gu22rfn78+NGs5Ofr16+ZC58+fvyYwX8rxOxXr169fPny+fPn1//93bJlBUAAsQADZMEBxj9/GBxb2P/9+S/R8u3vzxuyaX8ZHv3j8/YGms3w8ycQARmi2eE37t4ACCDGR4/uSkrKAS35B3TT////wADOgLOBIaXIyjBlwxKAAGKRXjCB0SOEaeu+/y9fMnz4AHQxCP348R/o+l+//sMZQBNLEvif3AcIIMZbty7Ly6t9ZmXl+fXj/38GoHH/UcGfP79//BBiYHjy9+8/oUkNAAHEwt1V/vI/KBY/QSISFqM/GBg+MzB8A6PfYC5EFiDAABqgW776MP0rAAAAAElFTkSuQmCC" title="English" alt="English" width="16" height="11"/><span style="margin-left:0.3em;">English</span></a></li>
+<li class="menu-item trusted-search"><a class="trusted-search" href="#search" role="button"><span class="fa fa-search"></span></a></li></ul></div>				</div>
+			</div>
+
+			
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content clearfix">
+
+	<header class="main-header light">
+		<div class="container">
+			<div class="header-title">
+		<h1 class="main-title fadeInDown"><i class="fa fa-check"></i>Department of Korean Language</h1>			</div>
+		</div><!-- .container -->
+	</header><!-- .entry-header -->
+	<div class="container clearfix">
+	
+	<div id="primary" class="content-area full-width">
+		<main id="main" class="site-main" role="main">
+
+			
+				
+<article id="post-99" class="post-99 page type-page status-publish hentry">
+
+	<div class="entry-content single-entry-content">
+		<h1 class="p1"><span class="s1"><strong>Department of Korean Language</strong></span></h1>
+<p><img class="alignnone wp-image-2031 size-full" src="http://35.197.147.51/wp-content/uploads/2020/01/1920137_croped.jpeg" alt="" width="4295" height="2612" srcset="http://lkclaos.org/wp-content/uploads/2020/01/1920137_croped.jpeg 4295w, http://lkclaos.org/wp-content/uploads/2020/01/1920137_croped-300x182.jpeg 300w, http://lkclaos.org/wp-content/uploads/2020/01/1920137_croped-768x467.jpeg 768w, http://lkclaos.org/wp-content/uploads/2020/01/1920137_croped-1024x623.jpeg 1024w" sizes="(max-width: 4295px) 100vw, 4295px"/></p>
+<h5></h5>
+<h5 class="p1"><span class="s1"><strong>Department Overview</strong></span></h5>
+<p class="p1"><span class="s3">Currently, Korean courses are necessary to do business with Koreans in Laos, to study abroad, to gain work opportunities in Korea, and to marry Koreans. Therefore, we have opened this department to solve this problem. </span><span class="s4">The Lao people can live with the Koreans without inconvenience because they understand the Korean culture from the perspective of science, understand the Korean culture, and teach various ways to adapt in Korea.<span class="Apple-converted-space">  </span>This will be what the Korean professors will do in the Korean language department.</span></p>
+<h5></h5>
+<h5 class="p2"><span class="s4"><strong>Educational Objectives</strong></span></h5>
+<ul>
+<li class="p2" style="text-align: left;"><span class="s4">To cultivate Korean personnel in Laos to help resolve communication issues with Lao people</span></li>
+<li class="p2"><span class="s4">To promote a multicultural society and cultivate human resources that will help Korean families living in Laos</span></li>
+<li class="p2"><span class="s4">To foster global professionals to help Lao people living in Korea or within the Korean culture</span></li>
+<li class="p2"><span class="s4">To foster global professionals with the flexibility to work in various Korean and overseas jobs</span></li>
+</ul>
+<h5></h5>
+<h5><strong>Main Subjects</strong></h5>
+<ul>
+<li>Korean pronunciation theory</li>
+<li>Korean grammar theory</li>
+<li>Introduction to the Korean language</li>
+<li>Modern Korean culture</li>
+<li>Traditional Korean culture</li>
+<li>Korean business language, etc.</li>
+</ul>
+<h5></h5>
+<h5><span class="s5"><b>Employment status and graduate career status</b></span></h5>
+<p class="p4"><span class="s4">Graduates from the Department of Korean language will be engaged in interpretation, translation, trade, and educational services within institutions such as banks, government offices, and general enterprises.</span></p>
+<p>&nbsp;</p>
+<h5><strong>Faculty Members</strong></h5>
+<p><strong><img class="alignnone wp-image-1998 size-full" src="http://35.197.147.51/wp-content/uploads/2020/01/Slide7.jpg" alt="" width="1280" height="720" srcset="http://lkclaos.org/wp-content/uploads/2020/01/Slide7.jpg 1280w, http://lkclaos.org/wp-content/uploads/2020/01/Slide7-300x169.jpg 300w, http://lkclaos.org/wp-content/uploads/2020/01/Slide7-768x432.jpg 768w, http://lkclaos.org/wp-content/uploads/2020/01/Slide7-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px"/></strong></p>
+<h5></h5>
+<h5><strong>Gallery<br/>
+</strong></h5>
+<p><img class="alignnone wp-image-2035 size-full" src="http://35.197.147.51/wp-content/uploads/2020/01/Collage_Fotor4-2.jpg" alt="" width="5000" height="3749" srcset="http://lkclaos.org/wp-content/uploads/2020/01/Collage_Fotor4-2.jpg 5000w, http://lkclaos.org/wp-content/uploads/2020/01/Collage_Fotor4-2-300x225.jpg 300w, http://lkclaos.org/wp-content/uploads/2020/01/Collage_Fotor4-2-768x576.jpg 768w, http://lkclaos.org/wp-content/uploads/2020/01/Collage_Fotor4-2-1024x768.jpg 1024w" sizes="(max-width: 5000px) 100vw, 5000px"/></p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-1999" src="http://35.197.147.51/wp-content/uploads/2020/01/Class-3.jpg" alt="" width="4200" height="5910" srcset="http://lkclaos.org/wp-content/uploads/2020/01/Class-3.jpg 4200w, http://lkclaos.org/wp-content/uploads/2020/01/Class-3-213x300.jpg 213w, http://lkclaos.org/wp-content/uploads/2020/01/Class-3-768x1081.jpg 768w, http://lkclaos.org/wp-content/uploads/2020/01/Class-3-728x1024.jpg 728w" sizes="(max-width: 4200px) 100vw, 4200px"/></p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- .container -->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+				<div id="top-footer">
+			<div class="container">
+				<div class="top-footer clearfix">
+					<div class="footer footer1 reveal animated fadeInRight">
+						<aside id="text-3" class="widget widget_text"><h5 class="widget-title">Contact</h5>			<div class="textwidget"><p>Tel: 021-671-080<br/>
+E-mail: laokoreancollege@gmail.com<br/>
+Address: <span class="s1">Phonsavathnuea Village, </span><span class="s1">Sikhottabong District, </span><span class="s1">Vientiane Capital, Lao PDR.<br/>
+Facebook: lao-korean college</span></p>
+</div>
+		</aside>	
+					</div>
+
+					<div class="footer footer2 reveal animated fadeInDown">
+							
+					</div>
+
+					<div class="footer footer3 reveal animated fadeInLeft">
+							
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		<div id="bottom-footer">
+			<div class="container clearfix">
+								<div class="site-info">
+					<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+					<span class="sep"> | </span>
+					Theme: <a href="https://uxlthemes.com/theme/trusted/" rel="designer">Trusted</a> by uXL Themes				</div>
+		
+				<div id="footer-menu" class="menu-main-menu-in-english-container"><ul id="footer-menu" class="trusted-footer-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-599"><a href="http://lkclaos.org/introductions/">Introductions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-627"><a href="http://lkclaos.org/department/">Department Introduction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-952"><a href="http://lkclaos.org/student-wellfare/">Student Welfare</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-634"><a href="http://lkclaos.org/admission-guidance-2/">Admission Guidance</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-632"><a href="http://lkclaos.org/affiliated-institute/">Affiliated Institute</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-759"><a href="http://lkclaos.org/overseas-cooperation-agency/">Overseas cooperation agency</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1065"><a href="http://lkclaos.org/college-event/">College Event</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="http://lkclaos.org/invited-professors/">Invited Professors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-755"><a href="http://lkclaos.org/board/">Board</a></li>
+<li class="lang-item lang-item-42 lang-item-lo lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-622-lo"><a href="http://lkclaos.org/%e0%ba%9e%e0%ba%b2%e0%ba%81%e0%ba%a7%e0%ba%b4%e0%ba%8a%e0%ba%b2%e0%ba%9e%e0%ba%b2%e0%ba%aa%e0%ba%b2%e0%bb%80%e0%ba%81%e0%ba%bb%e0%ba%b2%e0%ba%ab%e0%ba%bc%e0%ba%b5/" hreflang="lo" lang="lo"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHFSURBVHjaYvzLgAL+gREDEvkPlQ0QgMc4tgEABmEgCCJbsxWzpTM2oYr0Ov3Z88x1JJOcjKaxo3s24GvArXoCiKWA2T9Y1OzTy/f///77B0J/f/38++f3379//v7/+4fh77+/f/4A0Z/ff/glhOoZNgEEADEAzv8EkyJwHRIj5/35/P7//f0A+fr9Ew8EWUYV////n7Ln3eb4AQAA+vz9+/z+GxQH3QCRAoiJ4c+/338Zfv1j/P2X8ceff4xMjOXxMtrKXEBUmSjHxsb05df/n38YQegfSC9AADEB1f79z/DvD8gNv3/+FeBh4uVi/g8GgnzM4gLMv77/BroHhIAOYPgDEEAgG/7+/ffrH8Ovv/9//2N48fb3p69/IBrefPz98MXPPwwMP//8/wUMgt//gRoAAogF6ECg937/BtoBCqf33/9UTnuY4icGDLfJq5+9/PCHiRGoBOh1oENAAQsQQIy+DPYp9Znvnrz+Cw4ZoNW/fkDc8Pfv739M/0GCYIl/wnKiBRtqAAKIZQXDQdZHygxA+0CB/RdoMcO/3//+/f7/H+gwcPADEdDRQA/c+evJwAAQQIyfMSL1DxIbIvUHKe4BAgwAnbhCepZmuD8AAAAASUVORK5CYII=" title="ພາສາລາວ" alt="ພາສາລາວ" width="16" height="11"/><span style="margin-left:0.3em;">ພາສາລາວ</span></a></li>
+<li class="lang-item lang-item-3 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-622-en"><a href="http://lkclaos.org/department-of-korean-language/" hreflang="en-US" lang="en-US"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHzSURBVHjaYkxOP8IAB//+Mfz7w8Dwi4HhP5CcJb/n/7evb16/APL/gRFQDiAAw3JuAgAIBEDQ/iswEERjGzBQLEru97ll0g0+3HvqMn1SpqlqGsZMsZsIe0SICA5gt5a/AGIEarCPtFh+6N/ffwxA9OvP/7//QYwff/6fZahmePeB4dNHhi+fGb59Y4zyvHHmCEAAAW3YDzQYaJJ93a+vX79aVf58//69fvEPlpIfnz59+vDhw7t37968efP3b/SXL59OnjwIEEAsDP+YgY53b2b89++/awvLn98MDi2cVxl+/vl6mituCtBghi9f/v/48e/XL86krj9XzwEEEENy8g6gu22rfn78+NGs5Ofr16+ZC58+fvyYwX8rxOxXr169fPny+fPn1//93bJlBUAAsQADZMEBxj9/GBxb2P/9+S/R8u3vzxuyaX8ZHv3j8/YGms3w8ycQARmi2eE37t4ACCDGR4/uSkrKAS35B3TT////wADOgLOBIaXIyjBlwxKAAGKRXjCB0SOEaeu+/y9fMnz4AHQxCP348R/o+l+//sMZQBNLEvif3AcIIMZbty7Ly6t9ZmXl+fXj/38GoHH/UcGfP79//BBiYHjy9+8/oUkNAAHEwt1V/vI/KBY/QSISFqM/GBg+MzB8A6PfYC5EFiDAABqgW776MP0rAAAAAElFTkSuQmCC" title="English" alt="English" width="16" height="11"/><span style="margin-left:0.3em;">English</span></a></li>
+</ul></div>
+			</div>
+		</div>
+
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+			<script type="text/javascript">function showhide_toggle(e,t,r,g){var a=jQuery("#"+e+"-link-"+t),s=jQuery("a",a),i=jQuery("#"+e+"-content-"+t),l=jQuery("#"+e+"-toggle-"+t);a.toggleClass("sh-show sh-hide"),i.toggleClass("sh-show sh-hide").toggle(),"true"===s.attr("aria-expanded")?s.attr("aria-expanded","false"):s.attr("aria-expanded","true"),l.text()===r?(l.text(g),a.trigger("sh-link:more")):(l.text(r),a.trigger("sh-link:less")),a.trigger("sh-link:toggle")}</script>
+	<script type="text/javascript">if(typeof(mb_urls)==="undefined"){var mb_urls=[];};mb_urls["board_api"]="mb_board";mb_urls["comment_api"]="mb_comment";mb_urls["user_api"]="mb_user";mb_urls["heditor_api"]="mb_heditor";mb_urls["template_api"]="mb_template";mb_urls["custom_api"]="mb_custom";mb_urls["commerce_api"]="mb_commerce";</script><script type='text/javascript' src='http://lkclaos.org/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});</script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/themes/trusted/js/modernizr.js?ver=2.6.3'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/themes/trusted/js/trusted-custom.js?ver=1.1'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-content/themes/trusted/js/wow.js?ver=20170103'></script>
+<script type='text/javascript' src='http://lkclaos.org/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+
+  <div id="bitnami-banner" data-banner-id="24e67">  <style>#bitnami-banner{z-index:100000;height:80px;padding:0px;width:120px;background:transparent;position:fixed;right:0px;bottom:0px;border:0px solid #ededed}#bitnami-banner .bitnami-corner-image-div{position:fixed;right:0px;bottom:0px;border:0px;z-index:100001;height:110px}#bitnami-banner .bitnami-corner-image-div .bitnami-corner-image{position:fixed;right:0px;bottom:0px;border:0px;z-index:100001;height:110px}#bitnami-close-banner-button{height:12px;width:12px;z-index:10000000000;position:fixed;right:5px;bottom:65px;display:none;cursor:pointer}</style>  <img id="bitnami-close-banner-button" src="/bitnami/images/xclose.png.pagespeed.ic.Zei43eohAv.png"/>  <div class="bitnami-corner-image-div">     <a href="/bitnami/index.html" target="_blank">       <img class="bitnami-corner-image" alt="Bitnami" src="/bitnami/images/xcorner-logo.png.pagespeed.ic.6TukXqDtLV.png"/>     </a>  </div>  <script type="text/javascript" src="/bitnami/banner.js"></script> </div>   </body>
+</html>

@@ -1,0 +1,4 @@
+/Users/daeseekpaek/opt/anaconda3/bin/python "/Users/daeseekpaek/Library/Mobile Documents/com~apple~CloudDocs/Python/schoolreport.py"
+djkj
+djkjk
+jkj

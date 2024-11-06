@@ -1,0 +1,17 @@
+import math
+
+#degree to radions
+def degrees_to_radians(degrees):
+     return degrees*math.pi /180
+
+def sine_of_angle(degrees):
+     radians = degrees_to_radians(degrees)
+     return math.sin(radians)
+
+i = 0
+angle_degree = i
+sine_value = sine_of_angle(angle_degree)
+print(f"the sine of{angle_degree} degrees is : {sine_value}")
+     
+     
+

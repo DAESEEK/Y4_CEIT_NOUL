@@ -1,0 +1,17 @@
+school : 학교
+home : 집
+office : 사무실
+student : 학생
+boy : 소년
+girl : 소녀
+teacher : 선생님
+professor : 교수님
+love : 사랑
+/usr/bin/python3 "/Users/daeseekpaek/Library/Mobile Documents/com~apple~CloudDocs/Python/dictionaryEngtoKor.py" : 
+airplane : 비행기
+love : 사랑
+love : 
+ : 
+ : 
+ : 
+ : 
